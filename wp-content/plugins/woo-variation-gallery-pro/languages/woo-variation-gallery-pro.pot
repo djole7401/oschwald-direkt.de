@@ -1,0 +1,157 @@
+# Copyright (C) 2018 WooCommerce Variation Gallery - Pro
+# This file is distributed under the same license as the WooCommerce Variation Gallery - Pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Variation Gallery - Pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: ThemeHippo <themehippo@gmail.com>\n"
+"Last-Translator: Emran Ahmed <emran.bd.08@gmail.com>\n"
+"Report-Msgid-Bugs-To: https://github.com/EmranAhmed/woo-variation-gallery-pro/issues\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/functions.php:19
+msgid "Variation Image Gallery"
+msgstr ""
+
+#: ../includes/functions.php:30
+msgid "Add Gallery Images"
+msgstr ""
+
+#: ../includes/hooks.php:9
+msgid "WooCommerce Variation Gallery Pro"
+msgstr ""
+
+#: ../includes/hooks.php:16
+msgid "Show Slider Arrow"
+msgstr ""
+
+#: ../includes/hooks.php:19
+msgid "Show Gallery Slider Arrow"
+msgstr ""
+
+#: ../includes/hooks.php:25
+msgid "Enable Image Zoom"
+msgstr ""
+
+#: ../includes/hooks.php:28
+msgid "Enable Gallery Image Zoom"
+msgstr ""
+
+#: ../includes/hooks.php:33
+msgid "Enable Image Popup"
+msgstr ""
+
+#: ../includes/hooks.php:36
+msgid "Enable Gallery Image Popup"
+msgstr ""
+
+#: ../includes/hooks.php:41
+msgid "Enable Thumbnail Slide"
+msgstr ""
+
+#: ../includes/hooks.php:44
+msgid "Enable Gallery Thumbnail Slide"
+msgstr ""
+
+#: ../includes/hooks.php:49
+msgid "Show Thumbnail Arrow"
+msgstr ""
+
+#: ../includes/hooks.php:52
+msgid "Show Gallery Thumbnail Arrow"
+msgstr ""
+
+#: ../includes/hooks.php:58
+msgid "Zoom Icon Display Position"
+msgstr ""
+
+#: ../includes/hooks.php:64
+msgid "Product Gallery Zoom Icon Display Position"
+msgstr ""
+
+#: ../includes/hooks.php:66
+msgid "Top Right"
+msgstr ""
+
+#: ../includes/hooks.php:67
+msgid "Top Left"
+msgstr ""
+
+#: ../includes/hooks.php:68
+msgid "Bottom Right"
+msgstr ""
+
+#: ../includes/hooks.php:69
+msgid "Bottom Left"
+msgstr ""
+
+#: ../includes/hooks.php:74
+msgid "Thumbnail Display Position"
+msgstr ""
+
+#: ../includes/hooks.php:80
+msgid "Product Gallery Thumbnail Display Position"
+msgstr ""
+
+#: ../includes/hooks.php:89
+msgid "License key"
+msgstr ""
+
+#: ../includes/hooks.php:91
+msgid "Please add product license key and add your domain(s) on <a target=\"_blank\" href=\"https://getwooplugins.com/my-account/downloads/\">GetWooPlugins.com -> My Downloads</a> to get automatic update."
+msgstr ""
+
+#: ../includes/hooks.php:111
+msgid "Variation Gallery Video"
+msgstr ""
+
+#: ../includes/hooks.php:115
+msgid "Video URL"
+msgstr ""
+
+#: ../includes/hooks.php:129
+msgid "Width"
+msgstr ""
+
+#: ../includes/hooks.php:133
+msgid "Video Width. px or %. Empty for default"
+msgstr ""
+
+#: ../includes/hooks.php:137
+msgid "Height"
+msgstr ""
+
+#: ../includes/hooks.php:141
+msgid "Video Height. px or %. Empty for default"
+msgstr ""
+
+#: ../woo-variation-gallery-pro.php:113
+msgid "Choose Video"
+msgstr ""
+
+#: ../woo-variation-gallery-pro.php:114
+msgid "Choose Image"
+msgstr ""
+
+#: ../woo-variation-gallery-pro.php:115
+msgid "Add Images"
+msgstr ""
+
+#: ../woo-variation-gallery-pro.php:116
+msgid "Add Video"
+msgstr ""
+
+#: ../woo-variation-gallery-pro.php:192
+msgid "WooCommerce Additional Variation Images Gallery"
+msgstr ""
+
+#: ../woo-variation-gallery-pro.php:200
+msgid "<strong>WooCommerce Additional Variation Images Gallery - Pro</strong> is an add-on of "
+msgstr ""

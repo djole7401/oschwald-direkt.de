@@ -1,0 +1,230 @@
+[2019-02-01 10:29:22.295959] [WPBackItUp_Job::purge_jobs]::[INFO]: Begin - Purge Jobs:backup
+[2019-02-01 10:29:22.297611] [WPBackItUp_Job::purge_jobs]::[INFO]: Total finished jobs found:1
+[2019-02-01 10:29:22.299436] [WPBackItUp_Job::purge_jobs]::[INFO]: Total finished jobs found:1
+[2019-02-01 10:29:22.299510] [WPBackItUp_Job::purge_jobs]::[INFO]: WPBackItUp_Job::__set_state(array(
+   'job_id' => '1549018009',
+   'job_name' => 'wordpress.p494915.webspaceconfig.de_1549012251',
+   'job_type' => 'backup',
+   'job_run_type' => 'imported',
+   'instance_id' => 1549020562.0,
+   'log_name' => 'debug_job',
+   'job_start_time' => NULL,
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => 
+  array (
+    'backup_zip_files' => 
+    array (
+      '/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_backups/wordpress.p494915.webspaceconfig.de_1549012251/wordpress.p494915.webspaceconfig.de_1549012251-backupset-1549013404.zip' => 108864.0,
+    ),
+  ),
+   'job_status' => 'complete',
+))
+[2019-02-01 10:29:22.299621] [WPBackItUp_Job::purge_jobs]::[INFO]: No backups found for job:1549018009
+[2019-02-01 10:29:22.304986] [WPBackItUp_Job::delete_job_records]::[INFO]: Deleted items:
+[2019-02-01 10:29:22.306782] [WPBackItUp_Job::delete_job_records]::[INFO]: Deleted Tasks:
+[2019-02-01 10:29:22.307768] [WPBackItUp_Job::delete_job_records]::[INFO]: Deleted Jobs:1
+[2019-02-01 10:29:22.307830] [WPBackItUp_Job::delete_job_records]::[INFO]: Deleted Job:1549018009
+[2019-02-01 10:29:22.307883] [WPBackItUp_Job::purge_jobs]::[INFO]: Backups Missing - Queued the job for delete:
+[2019-02-01 10:29:22.307959] [WPBackItUp_Job::purge_jobs]::[INFO]: WPBackItUp_Job::__set_state(array(
+   'job_id' => '1549018009',
+   'job_name' => 'wordpress.p494915.webspaceconfig.de_1549012251',
+   'job_type' => 'backup',
+   'job_run_type' => 'imported',
+   'instance_id' => 1549020562.0,
+   'log_name' => 'debug_job',
+   'job_start_time' => NULL,
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => 
+  array (
+    'backup_zip_files' => 
+    array (
+      '/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_backups/wordpress.p494915.webspaceconfig.de_1549012251/wordpress.p494915.webspaceconfig.de_1549012251-backupset-1549013404.zip' => 108864.0,
+    ),
+  ),
+   'job_status' => 'complete',
+))
+[2019-02-01 10:29:22.309920] [WPBackItUp_Job::purge_jobs]::[INFO]: Remaining Jobs After File Check:1
+[2019-02-01 10:29:22.309973] [WPBackItUp_Job::purge_jobs]::[INFO]: Job purge queue dispatched.
+[2019-02-01 10:29:22.310050] [WPBackItUp_Job::purge_jobs]::[INFO]: End - No of job will be  Purged:1
+[2019-02-01 10:29:22.310203] [WPBackItUp_Job::purge_jobs]::[INFO]: Begin - Purge Jobs:cleanup
+[2019-02-01 10:29:22.311542] [WPBackItUp_Job::purge_jobs]::[INFO]: Total finished jobs found:1
+[2019-02-01 10:29:22.314119] [WPBackItUp_Job::purge_jobs]::[INFO]: Remaining Jobs After File Check:2
+[2019-02-01 10:29:22.314182] [WPBackItUp_Job::purge_jobs]::[INFO]: Jobs to be purged:0
+[2019-02-01 10:29:22.314251] [WPBackItUp_Job::purge_jobs]::[INFO]: Job purge queue dispatched.
+[2019-02-01 10:29:22.314312] [WPBackItUp_Job::purge_jobs]::[INFO]: End - No of job will be  Purged:0
+[2019-02-01 11:33:25.163260] [WPBackItUp_Job::purge_jobs]::[INFO]: Begin - Purge Jobs:backup
+[2019-02-01 11:33:25.165050] [WPBackItUp_Job::purge_jobs]::[INFO]: Total finished jobs found:1
+[2019-02-01 11:33:25.166697] [WPBackItUp_Job::purge_jobs]::[INFO]: Total finished jobs found:1
+[2019-02-01 11:33:25.168309] [WPBackItUp_Job::purge_jobs]::[INFO]: Remaining Jobs After File Check:1
+[2019-02-01 11:33:25.168371] [WPBackItUp_Job::purge_jobs]::[INFO]: Job purge queue dispatched.
+[2019-02-01 11:33:25.168421] [WPBackItUp_Job::purge_jobs]::[INFO]: End - No of job will be  Purged:0
+[2019-02-01 11:33:25.168519] [WPBackItUp_Job::purge_jobs]::[INFO]: Begin - Purge Jobs:cleanup
+[2019-02-01 11:33:25.173357] [WPBackItUp_Job::purge_jobs]::[INFO]: Total finished jobs found:1
+[2019-02-01 11:33:25.176158] [WPBackItUp_Job::purge_jobs]::[INFO]: Remaining Jobs After File Check:3
+[2019-02-01 11:33:25.176255] [WPBackItUp_Job::purge_jobs]::[INFO]: Jobs to be purged:1
+[2019-02-01 11:33:25.176414] [WPBackItUp_Job::purge_jobs]::[INFO]: array (
+  0 => 
+  WPBackItUp_Job::__set_state(array(
+     'job_id' => '1549020560',
+     'job_name' => 'cleanup_1549020560',
+     'job_type' => 'cleanup',
+     'job_run_type' => 'scheduled',
+     'instance_id' => 1549024405.0,
+     'log_name' => 'debug_job',
+     'job_start_time' => '2019-02-01 11:29:22',
+     'job_end_time' => '2019-02-01 11:29:22',
+     'locked' => NULL,
+     'mutex' => NULL,
+     'job_meta' => 
+    array (
+    ),
+     'job_status' => 'complete',
+  )),
+  1 => 
+  WPBackItUp_Job::__set_state(array(
+     'job_id' => '1549016530',
+     'job_name' => 'cleanup_1549016530',
+     'job_type' => 'cleanup',
+     'job_run_type' => 'scheduled',
+     'instance_id' => 1549024405.0,
+     'log_name' => 'debug_job',
+     'job_start_time' => '2019-02-01 10:22:11',
+     'job_end_time' => '2019-02-01 10:22:12',
+     'locked' => NULL,
+     'mutex' => NULL,
+     'job_meta' => 
+    array (
+    ),
+     'job_status' => 'complete',
+  )),
+  2 => 
+  WPBackItUp_Job::__set_state(array(
+     'job_id' => '1549012634',
+     'job_name' => 'cleanup_1549012634',
+     'job_type' => 'cleanup',
+     'job_run_type' => 'scheduled',
+     'instance_id' => 1549024405.0,
+     'log_name' => 'debug_job',
+     'job_start_time' => '2019-02-01 09:17:16',
+     'job_end_time' => '2019-02-01 09:17:16',
+     'locked' => NULL,
+     'mutex' => NULL,
+     'job_meta' => 
+    array (
+    ),
+     'job_status' => 'complete',
+  )),
+)
+[2019-02-01 11:33:25.177757] [WPBackItUp_Job::delete_job_records]::[INFO]: Deleted items:
+[2019-02-01 11:33:25.179920] [WPBackItUp_Job::delete_job_records]::[INFO]: Deleted Tasks:7
+[2019-02-01 11:33:25.181035] [WPBackItUp_Job::delete_job_records]::[INFO]: Deleted Jobs:1
+[2019-02-01 11:33:25.181098] [WPBackItUp_Job::delete_job_records]::[INFO]: Deleted Job:1549012634
+[2019-02-01 11:33:25.181164] [WPBackItUp_Job::purge_jobs]::[INFO]: Queued the Job for delete:
+[2019-02-01 11:33:25.181237] [WPBackItUp_Job::purge_jobs]::[INFO]: WPBackItUp_Job::__set_state(array(
+   'job_id' => '1549012634',
+   'job_name' => 'cleanup_1549012634',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'instance_id' => 1549024405.0,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2019-02-01 09:17:16',
+   'job_end_time' => '2019-02-01 09:17:16',
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => 
+  array (
+  ),
+   'job_status' => 'complete',
+))
+[2019-02-01 11:33:25.181288] [WPBackItUp_Job::purge_jobs]::[INFO]: Job purge queue dispatched.
+[2019-02-01 11:33:25.181334] [WPBackItUp_Job::purge_jobs]::[INFO]: End - No of job will be  Purged:1
+[2019-02-04 17:17:58.575170] [WPBackItUp_Job::purge_jobs]::[INFO]: Begin - Purge Jobs:backup
+[2019-02-04 17:17:58.578012] [WPBackItUp_Job::purge_jobs]::[INFO]: Total finished jobs found:1
+[2019-02-04 17:17:58.581525] [WPBackItUp_Job::purge_jobs]::[INFO]: Total finished jobs found:1
+[2019-02-04 17:17:58.583466] [WPBackItUp_Job::purge_jobs]::[INFO]: Remaining Jobs After File Check:1
+[2019-02-04 17:17:58.583553] [WPBackItUp_Job::purge_jobs]::[INFO]: Job purge queue dispatched.
+[2019-02-04 17:17:58.583596] [WPBackItUp_Job::purge_jobs]::[INFO]: End - No of job will be  Purged:0
+[2019-02-04 17:17:58.583740] [WPBackItUp_Job::purge_jobs]::[INFO]: Begin - Purge Jobs:cleanup
+[2019-02-04 17:17:58.589140] [WPBackItUp_Job::purge_jobs]::[INFO]: Total finished jobs found:1
+[2019-02-04 17:17:58.593194] [WPBackItUp_Job::purge_jobs]::[INFO]: Remaining Jobs After File Check:3
+[2019-02-04 17:17:58.593250] [WPBackItUp_Job::purge_jobs]::[INFO]: Jobs to be purged:1
+[2019-02-04 17:17:58.593338] [WPBackItUp_Job::purge_jobs]::[INFO]: array (
+  0 => 
+  WPBackItUp_Job::__set_state(array(
+     'job_id' => '1549024402',
+     'job_name' => 'cleanup_1549024402',
+     'job_type' => 'cleanup',
+     'job_run_type' => 'scheduled',
+     'instance_id' => 1549304278.0,
+     'log_name' => 'debug_job',
+     'job_start_time' => '2019-02-01 12:33:25',
+     'job_end_time' => '2019-02-01 12:33:25',
+     'locked' => NULL,
+     'mutex' => NULL,
+     'job_meta' => 
+    array (
+    ),
+     'job_status' => 'complete',
+  )),
+  1 => 
+  WPBackItUp_Job::__set_state(array(
+     'job_id' => '1549020560',
+     'job_name' => 'cleanup_1549020560',
+     'job_type' => 'cleanup',
+     'job_run_type' => 'scheduled',
+     'instance_id' => 1549304278.0,
+     'log_name' => 'debug_job',
+     'job_start_time' => '2019-02-01 11:29:22',
+     'job_end_time' => '2019-02-01 11:29:22',
+     'locked' => NULL,
+     'mutex' => NULL,
+     'job_meta' => 
+    array (
+    ),
+     'job_status' => 'complete',
+  )),
+  2 => 
+  WPBackItUp_Job::__set_state(array(
+     'job_id' => '1549016530',
+     'job_name' => 'cleanup_1549016530',
+     'job_type' => 'cleanup',
+     'job_run_type' => 'scheduled',
+     'instance_id' => 1549304278.0,
+     'log_name' => 'debug_job',
+     'job_start_time' => '2019-02-01 10:22:11',
+     'job_end_time' => '2019-02-01 10:22:12',
+     'locked' => NULL,
+     'mutex' => NULL,
+     'job_meta' => 
+    array (
+    ),
+     'job_status' => 'complete',
+  )),
+)
+[2019-02-04 17:17:58.597166] [WPBackItUp_Job::delete_job_records]::[INFO]: Deleted items:
+[2019-02-04 17:17:58.599420] [WPBackItUp_Job::delete_job_records]::[INFO]: Deleted Tasks:7
+[2019-02-04 17:17:58.601176] [WPBackItUp_Job::delete_job_records]::[INFO]: Deleted Jobs:1
+[2019-02-04 17:17:58.601223] [WPBackItUp_Job::delete_job_records]::[INFO]: Deleted Job:1549016530
+[2019-02-04 17:17:58.601263] [WPBackItUp_Job::purge_jobs]::[INFO]: Queued the Job for delete:
+[2019-02-04 17:17:58.601344] [WPBackItUp_Job::purge_jobs]::[INFO]: WPBackItUp_Job::__set_state(array(
+   'job_id' => '1549016530',
+   'job_name' => 'cleanup_1549016530',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'instance_id' => 1549304278.0,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2019-02-01 10:22:11',
+   'job_end_time' => '2019-02-01 10:22:12',
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => 
+  array (
+  ),
+   'job_status' => 'complete',
+))
+[2019-02-04 17:17:58.601428] [WPBackItUp_Job::purge_jobs]::[INFO]: Job purge queue dispatched.
+[2019-02-04 17:17:58.601496] [WPBackItUp_Job::purge_jobs]::[INFO]: End - No of job will be  Purged:1

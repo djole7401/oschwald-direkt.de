@@ -1,0 +1,520 @@
+[2019-02-01 9:49:14.144494] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:49:14.144740] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:49:14.144812] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:49:14.144870] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:49:14.144951] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:49:18.847841] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:49:18.847994] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:49:18.848072] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:49:18.848129] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:49:18.848830] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:49:25.436079] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:49:25.436961] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:49:25.437026] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:49:25.437074] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:49:25.437144] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:49:30.391560] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:49:30.391869] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:49:30.391942] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:49:30.392004] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:49:30.392087] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:49:34.141041] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:49:34.141263] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:49:34.141369] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:49:34.141433] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:49:34.141521] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:49:39.470752] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:49:39.470931] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:49:39.471002] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:49:39.471066] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:49:39.471177] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:49:44.138447] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:49:44.138699] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:49:44.138765] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:49:44.138818] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:49:44.138894] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:49:49.464576] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:49:49.464797] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:49:49.464862] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:49:49.464911] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:49:49.464981] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:49:54.307636] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:49:54.307847] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:49:54.307908] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:49:54.307956] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:49:54.308023] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:49:59.669612] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:49:59.669908] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:49:59.669975] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:49:59.670023] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:49:59.670089] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:50:05.182128] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:50:05.182250] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:50:05.182301] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:50:05.182370] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:50:05.182425] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:50:11.002376] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:50:11.002593] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:50:11.002715] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:50:11.002791] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:50:11.002887] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:50:14.217303] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:50:14.217639] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:50:14.217717] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:50:14.217782] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:50:14.217871] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:50:19.467848] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:50:19.467984] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:50:19.468043] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:50:19.474764] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:50:19.474889] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:50:24.474380] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:50:24.474538] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:50:24.474596] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:50:24.474644] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:50:24.474710] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:50:32.837788] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:50:32.837959] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:50:32.838047] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:50:32.838109] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:50:32.838190] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:50:34.029253] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:50:34.029381] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:50:34.029438] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:50:34.029484] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:50:34.029547] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:50:38.775660] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:50:38.775970] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:50:38.776078] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:50:38.777980] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:50:38.779597] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:50:44.075223] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:50:44.076142] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:50:44.095170] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:50:44.095314] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:50:44.095478] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:50:49.027982] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:50:49.028131] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:50:49.075109] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:50:49.075371] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:50:49.075545] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:50:55.261982] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:50:55.262145] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:50:55.262208] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:50:55.262269] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:50:55.262350] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:51:00.755367] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:51:00.755541] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:51:00.755608] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:51:00.755662] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:51:00.755738] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:51:06.254121] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:51:06.254275] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:51:06.254343] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:51:06.254390] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:51:06.254456] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:51:11.051862] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:51:11.052037] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:51:11.052098] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:51:11.052149] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:51:11.052227] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:51:15.242445] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:51:15.242623] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:51:15.242691] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:51:15.242752] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:51:15.242834] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:51:20.995239] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:51:20.995426] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:51:20.995493] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:51:20.995548] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:51:20.995625] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:51:24.915425] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:51:24.915587] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:51:24.915656] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:51:24.915714] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:51:24.915795] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:51:29.017832] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:51:29.018032] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:51:29.018137] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:51:29.018212] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:51:29.018302] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:51:37.495696] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:51:37.496110] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:51:37.496176] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:51:37.496246] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:51:37.496323] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:51:39.459408] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:51:39.461077] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:51:39.461162] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:51:39.461221] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:51:39.461302] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:51:44.991585] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:51:44.991858] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:51:44.991935] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:51:44.992000] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:51:44.992084] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:51:49.486578] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:51:49.486804] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:51:49.486891] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:51:49.546066] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:51:49.556407] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:51:53.953665] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:51:53.953843] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:51:53.953949] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:51:53.954021] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:51:53.954117] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:52:01.441047] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:52:01.445034] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:52:01.445116] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:52:01.445184] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:52:01.445272] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:52:06.970408] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:52:06.970581] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:52:06.970648] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:52:06.970854] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:52:06.970943] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:52:11.007492] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:52:11.007606] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:52:11.007663] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:52:11.007711] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:52:11.007800] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:52:16.631006] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:52:16.631181] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:52:16.631284] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:52:16.631350] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:52:16.631437] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:52:21.003345] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:52:21.003525] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:52:21.003601] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:52:21.003665] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:52:21.003788] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:52:25.251868] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:52:25.271950] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:52:25.272079] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:52:25.272223] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:52:25.272372] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:52:29.167049] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:52:29.167205] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:52:29.167269] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:52:29.167323] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:52:29.167396] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:52:34.207873] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:52:34.208338] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:52:34.208410] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:52:34.208467] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:52:34.208544] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:52:39.777748] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:52:39.777942] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:52:39.778016] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:52:39.778079] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:52:39.778162] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:52:44.310671] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:52:44.310837] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:52:44.310931] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:52:44.310992] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:52:44.311477] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:52:49.575181] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:52:49.575368] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:52:49.575443] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:52:49.575501] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:52:49.575582] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:52:54.498811] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:52:54.499010] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:52:54.499088] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:52:54.499155] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:52:54.499245] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:53:00.279272] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:53:00.279397] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:53:00.279445] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:53:00.279515] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:53:00.279572] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:53:04.149775] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:53:04.149967] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:53:04.150036] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:53:04.150094] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:53:04.150171] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:53:12.039716] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:53:12.039954] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:53:12.040035] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:53:12.040128] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:53:12.040260] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:53:12.467401] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:53:12.467525] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 9:53:12.467600] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 9:53:12.467665] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:53:12.467875] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:53:14.283281] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:53:14.283447] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:53:14.283516] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:53:14.283579] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:53:14.283660] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:53:19.477927] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:53:19.478085] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:53:19.478144] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:53:19.478193] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:53:19.478259] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:53:24.156857] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:53:24.157062] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:53:24.157135] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:53:24.157196] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:53:24.157280] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:53:29.111224] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:53:29.111388] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:53:29.111448] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:53:29.111506] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:53:29.111574] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:53:34.540124] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:53:34.542790] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:53:34.542967] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:53:34.544276] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:53:34.544439] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:53:39.265265] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:53:39.265461] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:53:39.265521] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:53:39.265588] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:53:39.265656] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:53:45.014782] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:53:45.014952] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:53:45.015228] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:53:45.015372] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:53:45.015465] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:53:49.621819] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:53:49.622016] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:53:49.622073] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:53:49.622119] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:53:49.622205] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:53:54.680740] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:53:54.681006] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:53:54.681071] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:53:54.681127] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:53:54.681199] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:54:00.243839] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:54:00.246004] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:54:00.246073] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:54:00.246129] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:54:00.247128] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:54:05.026165] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:54:05.026340] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:54:05.026416] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:54:05.026478] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:54:05.026561] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:54:09.536673] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:54:09.536824] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:54:09.536880] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:54:09.536923] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:54:09.537003] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:54:13.907695] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:54:13.907922] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:54:13.908003] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:54:13.908068] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:54:13.908165] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:54:19.197257] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:54:19.197472] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:54:19.197568] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:54:19.197654] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:54:19.199035] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:54:25.534050] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:54:25.534157] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:54:25.534208] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:54:25.534261] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:54:25.534317] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:54:28.990906] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:54:28.991107] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:54:28.991197] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:54:28.991275] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:54:28.991910] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:54:34.377327] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:54:34.385714] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:54:34.385801] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:54:34.385859] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:54:34.385936] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:54:39.167201] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:54:39.167357] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:54:39.167418] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:54:39.167467] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:54:39.167534] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:54:45.074817] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:54:45.074981] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:54:45.075040] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:54:45.075088] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:54:45.075155] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:54:49.707669] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:54:49.707900] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:54:49.708004] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:54:49.708125] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:54:49.708245] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:54:54.489900] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:54:54.490071] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:54:54.490139] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:54:54.490196] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:54:54.490276] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:55:03.157195] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:55:03.157419] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:55:03.157480] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:55:03.157526] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:55:03.157711] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:55:04.693164] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:55:04.693341] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:55:04.693427] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:55:04.693492] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:55:04.693584] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:55:09.435465] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:55:09.435625] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:55:09.435699] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:55:09.435760] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:55:09.435873] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:55:14.656141] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:55:14.656292] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:55:14.656583] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:55:14.657077] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:55:14.657150] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:55:20.632287] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:55:20.635286] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:55:20.635365] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:55:20.635431] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:55:20.635518] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:55:24.037976] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:55:24.038121] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:55:24.038173] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:55:24.038213] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:55:24.038269] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:55:29.171741] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:55:29.171880] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:55:29.171966] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:55:29.172019] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:55:29.172086] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:55:34.404314] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:55:34.404582] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:55:34.404644] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:55:34.404712] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:55:34.404783] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:55:39.434171] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:55:39.434334] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:55:39.434401] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:55:39.434458] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:55:39.434541] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:55:43.994610] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:55:43.996346] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:55:43.998320] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:55:43.998380] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:55:43.998476] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:55:49.626370] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:55:49.626784] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:55:49.626893] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:55:49.626985] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:55:49.627108] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:55:59.593436] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:55:59.593651] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:55:59.593722] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:55:59.593806] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:55:59.593940] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:56:05.744371] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:56:05.744888] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 9:56:05.744952] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 9:56:05.745003] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:56:05.745111] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:57:09.008420] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:57:09.009419] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 9:57:09.009479] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 9:57:09.009530] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:57:09.009617] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 9:58:21.634396] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 9:58:21.634510] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 9:58:21.634558] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 9:58:21.634601] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 9:58:21.634668] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 10:03:15.480751] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 10:03:15.480935] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 10:03:15.481004] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 10:03:15.481065] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 10:03:15.481162] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 10:08:20.757738] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 10:08:20.757891] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 10:08:20.757951] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 10:08:20.757999] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 10:08:20.758080] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 10:12:28.567178] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 10:12:28.567466] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 10:12:28.567544] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 10:12:28.567815] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 10:12:28.567941] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 10:17:29.785072] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 10:17:29.785232] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 10:17:29.785305] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 10:17:29.785365] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 10:17:29.785461] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 10:20:25.126348] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 10:20:25.126522] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 10:20:25.126773] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 10:20:25.126817] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 10:20:25.126893] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 10:20:29.810499] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 10:20:29.810739] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 1
+[2019-02-01 10:20:29.810817] [WPBackitup_Admin::is_authorized]::[INFO]: DOING_CRON - NOT defined
+[2019-02-01 10:20:29.810863] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 10:20:29.810971] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 10:29:20.739432] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 10:29:20.739583] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 10:29:20.739645] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 10:29:20.739715] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 10:29:20.739864] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 10:42:13.511310] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 10:42:13.511480] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 10:42:13.511549] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 10:42:13.511607] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 10:42:13.511759] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 10:43:15.844106] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 10:43:15.844255] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 10:43:15.844310] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 10:43:15.844353] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 10:43:15.844444] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 11:08:05.482320] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 11:08:05.482475] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 11:08:05.482541] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 11:08:05.482595] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 11:08:05.482686] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 11:20:00.504123] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 11:20:00.504257] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 11:20:00.504312] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 11:20:00.504357] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 11:20:00.504434] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 11:33:22.358829] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 11:33:22.358969] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 11:33:22.359025] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 11:33:22.359071] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 11:33:22.359169] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 11:39:07.441798] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 11:39:07.441999] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 11:39:07.442084] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 11:39:07.442363] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 11:39:07.442470] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 11:43:24.961738] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 11:43:24.962162] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 11:43:24.962271] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 11:43:24.962341] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 11:43:24.962456] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 11:49:28.356864] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 11:49:28.357112] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 11:49:28.357197] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 11:49:28.357263] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 11:49:28.357371] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 11:53:24.495570] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 11:53:24.495726] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 11:53:24.495783] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 11:53:24.495827] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 11:53:24.495945] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 12:05:23.778809] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 12:05:23.781356] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 12:05:23.781483] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 12:05:23.781564] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 12:05:23.782167] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-01 12:07:25.716134] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-01 12:07:25.716298] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-01 12:07:25.716365] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-01 12:07:25.716420] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-01 12:07:25.716515] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS
+[2019-02-04 17:17:53.009058] [WPBackitup_Admin::is_authorized]::[INFO]: Begin
+[2019-02-04 17:17:53.009222] [WPBackitup_Admin::is_authorized]::[INFO]: User Permissions: 
+[2019-02-04 17:17:53.009287] [WPBackitup_Admin::is_authorized]::[INFO]: Doing CRON Constant: 1
+[2019-02-04 17:17:53.009351] [WPBackitup_Admin::is_authorized]::[INFO]: XMLRPC_REQUEST  - NOT defined 
+[2019-02-04 17:17:53.009445] [WPBackitup_Admin::is_authorized]::[INFO]: End - SUCCESS

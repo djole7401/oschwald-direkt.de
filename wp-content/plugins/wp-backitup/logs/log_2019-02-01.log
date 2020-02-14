@@ -1,0 +1,7 @@
+[2019-02-01 9:55:50.183096] [end_restore]::[INFO]: Restore completed: SUCCESS
+[2019-02-01 9:55:50.183190] [end_restore]::[INFO]: Copy WP Debug: /html/wordpress-oschwald-direkt-de/wp-content/debug.log
+[2019-02-01 9:55:50.183284] [debug] *** END RESTORE ***
+[2019-02-01 10:22:25.597589] [fatal_error]::[ERROR]: Unable to unzip archive.
+[2019-02-01 10:22:25.603439] [debug] Write response file:{"restoreStatus":"error","errorCode":"203","restoreMessage":"Unable to unzip archive."}
+[2019-02-01 10:22:25.609812] [end_restore]::[INFO]: Copy WP Debug: /html/wordpress-oschwald-direkt-de/wp-content/debug.log
+[2019-02-01 10:22:25.609958] [debug] *** END RESTORE ***

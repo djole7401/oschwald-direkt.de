@@ -1,0 +1,266 @@
+[2019-02-01 9:57:09.021917] [debug] **Check Backup Schedule**
+[2019-02-01 9:57:09.103101] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 9:57:09.119997] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 10:57:09
+[2019-02-01 9:57:09.120114] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 9:57:09.191922] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 9:57:09.192045] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 9:57:09.192115] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 9:57:09.194535] [debug] **Check Backup Schedule**
+[2019-02-01 9:57:09.194588] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 9:57:09.194746] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 10:57:09
+[2019-02-01 9:57:09.194806] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 9:57:09.216269] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 9:57:09.216392] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 9:57:09.217309] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 9:58:21.647903] [debug] **Check Backup Schedule**
+[2019-02-01 9:58:21.658068] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 9:58:21.668956] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 10:58:21
+[2019-02-01 9:58:21.669064] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 9:58:21.767230] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 9:58:21.767337] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 9:58:21.767393] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 9:58:21.770855] [debug] **Check Backup Schedule**
+[2019-02-01 9:58:21.770896] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 9:58:21.772353] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 10:58:21
+[2019-02-01 9:58:21.778465] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 9:58:21.887837] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 9:58:21.887969] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 9:58:21.888016] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 10:03:15.590882] [debug] **Check Backup Schedule**
+[2019-02-01 10:03:15.593482] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 10:03:15.598849] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 11:03:15
+[2019-02-01 10:03:15.598949] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 10:03:15.688280] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 10:03:15.688393] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 10:03:15.688446] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 10:03:15.721301] [debug] **Check Backup Schedule**
+[2019-02-01 10:03:15.721391] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 10:03:15.721590] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 11:03:15
+[2019-02-01 10:03:15.721668] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 10:03:15.847641] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 10:03:15.847806] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 10:03:15.847876] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 10:08:20.786925] [debug] **Check Backup Schedule**
+[2019-02-01 10:08:20.871612] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 10:08:20.871835] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 11:08:20
+[2019-02-01 10:08:20.871906] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 10:08:21.168651] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 10:08:21.168751] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 10:08:21.168804] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 10:08:21.175513] [debug] **Check Backup Schedule**
+[2019-02-01 10:08:21.175556] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 10:08:21.175681] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 11:08:21
+[2019-02-01 10:08:21.175729] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 10:08:21.248240] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 10:08:21.248347] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 10:08:21.248399] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 10:12:28.647003] [debug] **Check Backup Schedule**
+[2019-02-01 10:12:28.647999] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 10:12:28.648227] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 11:12:28
+[2019-02-01 10:12:28.648317] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 10:12:28.715724] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 10:12:28.715900] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 10:12:28.715970] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 10:12:28.737462] [debug] **Check Backup Schedule**
+[2019-02-01 10:12:28.737596] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 10:12:28.737823] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 11:12:28
+[2019-02-01 10:12:28.737896] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 10:12:28.837760] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 10:12:28.837893] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 10:12:28.837958] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 10:17:29.832380] [debug] **Check Backup Schedule**
+[2019-02-01 10:17:29.834680] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 10:17:29.834836] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 11:17:29
+[2019-02-01 10:17:29.834882] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 10:17:29.912992] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 10:17:29.913099] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 10:17:29.913147] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 10:17:29.915817] [debug] **Check Backup Schedule**
+[2019-02-01 10:17:29.916115] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 10:17:29.916299] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 11:17:29
+[2019-02-01 10:17:29.916366] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 10:17:29.930527] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 10:17:29.930612] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 10:17:29.930656] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 10:29:20.755580] [debug] **Check Backup Schedule**
+[2019-02-01 10:29:20.758238] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 10:29:20.758438] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 11:29:20
+[2019-02-01 10:29:20.758512] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 10:29:20.776334] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 10:29:20.778069] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 10:29:20.778127] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 10:29:20.782743] [debug] **Check Backup Schedule**
+[2019-02-01 10:29:20.782816] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 10:29:20.783039] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 11:29:20
+[2019-02-01 10:29:20.783148] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 10:29:20.818202] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 10:29:20.818300] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 10:29:20.818351] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 10:42:13.522531] [debug] **Check Backup Schedule**
+[2019-02-01 10:42:13.523315] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 10:42:13.523539] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 11:42:13
+[2019-02-01 10:42:13.523616] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 10:42:13.623380] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 10:42:13.632389] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 10:42:13.632478] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 10:42:13.635117] [debug] **Check Backup Schedule**
+[2019-02-01 10:42:13.635159] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 10:42:13.635278] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 11:42:13
+[2019-02-01 10:42:13.635323] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 10:42:13.657963] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 10:42:13.658076] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 10:42:13.658133] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 10:43:15.866832] [debug] **Check Backup Schedule**
+[2019-02-01 10:43:15.867588] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 10:43:15.877896] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 11:43:15
+[2019-02-01 10:43:15.877993] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 10:43:15.912636] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 10:43:15.913248] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 10:43:15.913333] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 10:43:15.915389] [debug] **Check Backup Schedule**
+[2019-02-01 10:43:15.915443] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 10:43:15.915590] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 11:43:15
+[2019-02-01 10:43:15.915647] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 10:43:15.958214] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 10:43:15.958559] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 10:43:15.958604] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 11:08:05.494541] [debug] **Check Backup Schedule**
+[2019-02-01 11:08:05.504535] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 11:08:05.504751] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 12:08:05
+[2019-02-01 11:08:05.505887] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 11:08:05.554750] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 11:08:05.554891] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 11:08:05.554970] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 11:08:05.576657] [debug] **Check Backup Schedule**
+[2019-02-01 11:08:05.576703] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 11:08:05.584192] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 12:08:05
+[2019-02-01 11:08:05.584307] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 11:08:05.611613] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 11:08:05.617026] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 11:08:05.617096] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 11:20:00.512831] [debug] **Check Backup Schedule**
+[2019-02-01 11:20:00.515394] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 11:20:00.516243] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 12:20:00
+[2019-02-01 11:20:00.516303] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 11:20:00.532772] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 11:20:00.532879] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 11:20:00.532929] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 11:20:00.537738] [debug] **Check Backup Schedule**
+[2019-02-01 11:20:00.537781] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 11:20:00.539572] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 12:20:00
+[2019-02-01 11:20:00.539865] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 11:20:00.563438] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 11:20:00.563540] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 11:20:00.563591] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 11:33:22.383474] [debug] **Check Backup Schedule**
+[2019-02-01 11:33:22.384247] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 11:33:22.384404] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 12:33:22
+[2019-02-01 11:33:22.384486] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 11:33:22.415251] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 11:33:22.415373] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 11:33:22.415441] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 11:33:22.429413] [debug] **Check Backup Schedule**
+[2019-02-01 11:33:22.429456] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 11:33:22.429582] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 12:33:22
+[2019-02-01 11:33:22.429625] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 11:33:22.452128] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 11:33:22.452241] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 11:33:22.452301] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 11:39:07.465236] [debug] **Check Backup Schedule**
+[2019-02-01 11:39:07.466002] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 11:39:07.466398] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 12:39:07
+[2019-02-01 11:39:07.466444] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 11:39:07.501617] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 11:39:07.501753] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 11:39:07.501817] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 11:39:07.504030] [debug] **Check Backup Schedule**
+[2019-02-01 11:39:07.504087] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 11:39:07.504237] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 12:39:07
+[2019-02-01 11:39:07.504295] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 11:39:07.537389] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 11:39:07.537517] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 11:39:07.537585] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 11:43:24.984962] [debug] **Check Backup Schedule**
+[2019-02-01 11:43:24.985805] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 11:43:24.989262] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 12:43:24
+[2019-02-01 11:43:24.989341] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 11:43:25.078902] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 11:43:25.079003] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 11:43:25.079052] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 11:43:25.091552] [debug] **Check Backup Schedule**
+[2019-02-01 11:43:25.091612] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 11:43:25.093844] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 12:43:25
+[2019-02-01 11:43:25.093905] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 11:43:25.118696] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 11:43:25.118818] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 11:43:25.119131] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 11:49:28.393054] [debug] **Check Backup Schedule**
+[2019-02-01 11:49:28.401242] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 11:49:28.401453] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 12:49:28
+[2019-02-01 11:49:28.401516] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 11:49:28.484985] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 11:49:28.485151] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 11:49:28.485225] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 11:49:28.500150] [debug] **Check Backup Schedule**
+[2019-02-01 11:49:28.500215] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 11:49:28.500380] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 12:49:28
+[2019-02-01 11:49:28.500438] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 11:49:28.645689] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 11:49:28.645806] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 11:49:28.645859] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 11:53:24.504410] [debug] **Check Backup Schedule**
+[2019-02-01 11:53:24.505422] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 11:53:24.505731] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 12:53:24
+[2019-02-01 11:53:24.505811] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 11:53:24.531511] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 11:53:24.531610] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 11:53:24.531724] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 11:53:24.593591] [debug] **Check Backup Schedule**
+[2019-02-01 11:53:24.593637] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 11:53:24.594367] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 12:53:24
+[2019-02-01 11:53:24.594413] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 11:53:24.629041] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 11:53:24.629154] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 11:53:24.629206] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 12:05:23.832782] [debug] **Check Backup Schedule**
+[2019-02-01 12:05:23.836889] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 12:05:23.837116] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 13:05:23
+[2019-02-01 12:05:23.837238] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 12:05:23.864928] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 12:05:23.865041] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 12:05:23.865092] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 12:05:23.870196] [debug] **Check Backup Schedule**
+[2019-02-01 12:05:23.870239] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 12:05:23.870353] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 13:05:23
+[2019-02-01 12:05:23.870419] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 12:05:23.894288] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 12:05:23.894386] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 12:05:23.894440] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 12:07:25.727725] [debug] **Check Backup Schedule**
+[2019-02-01 12:07:25.741724] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 12:07:25.741991] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 13:07:25
+[2019-02-01 12:07:25.742055] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 12:07:25.764951] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 12:07:25.765127] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 12:07:25.765203] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-01 12:07:25.776925] [debug] **Check Backup Schedule**
+[2019-02-01 12:07:25.777019] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-01 12:07:25.777209] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-01 13:07:25
+[2019-02-01 12:07:25.777270] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:5
+[2019-02-01 12:07:25.802817] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-01 12:07:25.803375] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-01 12:07:25.803446] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Backup already ran today
+[2019-02-04 17:17:53.027384] [debug] **Check Backup Schedule**
+[2019-02-04 17:17:53.030101] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-04 17:17:53.030322] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-04 18:17:53
+[2019-02-04 17:17:53.037205] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:1
+[2019-02-04 17:17:53.138828] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-04 17:17:53.138945] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-04 17:17:53.139554] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Not scheduled for: 1
+[2019-02-04 17:17:53.148442] [debug] **Check Backup Schedule**
+[2019-02-04 17:17:53.148509] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Schedule: 
+[2019-02-04 17:17:53.148675] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Date time:2019-02-04 18:17:53
+[2019-02-04 17:17:53.148741] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Current Day of Week:1
+[2019-02-04 17:17:53.187342] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Date Time:2019-02-01 08:58:55
+[2019-02-04 17:17:53.187474] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Last Run Day of Week:5
+[2019-02-04 17:17:53.187788] [WPBackItUp_Job_Scheduler::is_backup_scheduled]::[INFO]: Not scheduled for: 1

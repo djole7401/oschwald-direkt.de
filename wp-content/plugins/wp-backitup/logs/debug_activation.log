@@ -1,0 +1,210 @@
+[2019-02-04 17:17:57.690258] [WPBackItUp_License::update_license_options]::[INFO]: Update License Options:c11c0bce53f76d9b773c62807bc7859c
+[2019-02-04 17:17:57.711661] [WPBackItUp_License::edd_license_api_request]::[INFO]: Activate License Request Info:
+[2019-02-04 17:17:57.712141] [WPBackItUp_License::edd_license_api_request]::[INFO]: API URL:https://7aj6amlu38.execute-api.us-east-1.amazonaws.com/prod/v2
+[2019-02-04 17:17:57.712220] [debug] edd_action: 'activate_license'
+license: 'c11c0bce53f76d9b773c62807bc7859c'
+item_id: '679'
+url: 'https://dev.oschwald-direkt.de'
+[2019-02-04 17:17:58.443381] [WPBackItUp_License::edd_license_api_request]::[INFO]: API Response:array (
+  'headers' => 
+  Requests_Utility_CaseInsensitiveDictionary::__set_state(array(
+     'data' => 
+    array (
+      'content-type' => 'application/json',
+      'content-length' => '266',
+      'date' => 'Mon, 04 Feb 2019 17:17:58 GMT',
+      'x-amzn-requestid' => 'd125942f-28a0-11e9-bf4a-11faf6fa349c',
+      'content-encoding' => 'gzip',
+      'x-amzn-remapped-content-length' => '266',
+      'x-amzn-remapped-connection' => 'Keep-Alive',
+      'set-cookie' => 'PHPSESSID=1761c1d38395a68be35e27d93329751c; path=/',
+      'x-amz-apigw-id' => 'UlcG8EwtoAMFVPQ=',
+      'vary' => 'Accept-Encoding,User-Agent',
+      'cache-control' => 'no-store, no-cache, must-revalidate',
+      'x-amzn-remapped-server' => 'Apache',
+      'expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+      'pragma' => 'no-cache',
+      'x-amzn-remapped-date' => 'Mon, 04 Feb 2019 17:17:57 GMT',
+      'x-cache' => 'Miss from cloudfront',
+      'via' => '1.1 89c822bb1ce1445a7be6d1057088cfbf.cloudfront.net (CloudFront)',
+      'x-amz-cf-id' => 'TLbpmw3LVG1cXiBAQa2BKU8L4tELmbqw0xB-TT6gi4yNSrq1r_Prng==',
+    ),
+  )),
+  'body' => '{"success":false,"license":"invalid","item_id":679,"item_name":"WP BackItUp Premium","error":"no_activations_left","max_sites":2,"license_limit":2,"site_count":2,"expires":"2019-12-12 23:59:59","activations_left":0,"checksum":"dad4b0d5f2b9fafaa0d08af4b3c3b1ed","payment_id":585591,"customer_name":"Wolli Ruf","customer_email":"mediendesign@wolliruf.com","price_id":"0"}',
+  'response' => 
+  array (
+    'code' => 200,
+    'message' => 'OK',
+  ),
+  'cookies' => 
+  array (
+    0 => 
+    WP_Http_Cookie::__set_state(array(
+       'name' => 'PHPSESSID',
+       'value' => '1761c1d38395a68be35e27d93329751c',
+       'expires' => NULL,
+       'path' => '/',
+       'domain' => '7aj6amlu38.execute-api.us-east-1.amazonaws.com',
+    )),
+  ),
+  'filename' => NULL,
+  'http_response' => 
+  WP_HTTP_Requests_Response::__set_state(array(
+     'response' => 
+    Requests_Response::__set_state(array(
+       'body' => '{"success":false,"license":"invalid","item_id":679,"item_name":"WP BackItUp Premium","error":"no_activations_left","max_sites":2,"license_limit":2,"site_count":2,"expires":"2019-12-12 23:59:59","activations_left":0,"checksum":"dad4b0d5f2b9fafaa0d08af4b3c3b1ed","payment_id":585591,"customer_name":"Wolli Ruf","customer_email":"mediendesign@wolliruf.com","price_id":"0"}',
+       'raw' => 'HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 266
+Connection: close
+Date: Mon, 04 Feb 2019 17:17:58 GMT
+x-amzn-RequestId: d125942f-28a0-11e9-bf4a-11faf6fa349c
+Content-Encoding: gzip
+x-amzn-Remapped-Content-Length: 266
+x-amzn-Remapped-Connection: Keep-Alive
+Set-Cookie: PHPSESSID=1761c1d38395a68be35e27d93329751c; path=/
+x-amz-apigw-id: UlcG8EwtoAMFVPQ=
+Vary: Accept-Encoding,User-Agent
+Cache-Control: no-store, no-cache, must-revalidate
+x-amzn-Remapped-Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+x-amzn-Remapped-Date: Mon, 04 Feb 2019 17:17:57 GMT
+X-Cache: Miss from cloudfront
+Via: 1.1 89c822bb1ce1445a7be6d1057088cfbf.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: TLbpmw3LVG1cXiBAQa2BKU8L4tELmbqw0xB-TT6gi4yNSrq1r_Prng==
+
+{"success":false,"license":"invalid","item_id":679,"item_name":"WP BackItUp Premium","error":"no_activations_left","max_sites":2,"license_limit":2,"site_count":2,"expires":"2019-12-12 23:59:59","activations_left":0,"checksum":"dad4b0d5f2b9fafaa0d08af4b3c3b1ed","payment_id":585591,"customer_name":"Wolli Ruf","customer_email":"mediendesign@wolliruf.com","price_id":"0"}',
+       'headers' => 
+      Requests_Response_Headers::__set_state(array(
+         'data' => 
+        array (
+          'content-type' => 
+          array (
+            0 => 'application/json',
+          ),
+          'content-length' => 
+          array (
+            0 => '266',
+          ),
+          'date' => 
+          array (
+            0 => 'Mon, 04 Feb 2019 17:17:58 GMT',
+          ),
+          'x-amzn-requestid' => 
+          array (
+            0 => 'd125942f-28a0-11e9-bf4a-11faf6fa349c',
+          ),
+          'content-encoding' => 
+          array (
+            0 => 'gzip',
+          ),
+          'x-amzn-remapped-content-length' => 
+          array (
+            0 => '266',
+          ),
+          'x-amzn-remapped-connection' => 
+          array (
+            0 => 'Keep-Alive',
+          ),
+          'set-cookie' => 
+          array (
+            0 => 'PHPSESSID=1761c1d38395a68be35e27d93329751c; path=/',
+          ),
+          'x-amz-apigw-id' => 
+          array (
+            0 => 'UlcG8EwtoAMFVPQ=',
+          ),
+          'vary' => 
+          array (
+            0 => 'Accept-Encoding,User-Agent',
+          ),
+          'cache-control' => 
+          array (
+            0 => 'no-store, no-cache, must-revalidate',
+          ),
+          'x-amzn-remapped-server' => 
+          array (
+            0 => 'Apache',
+          ),
+          'expires' => 
+          array (
+            0 => 'Thu, 19 Nov 1981 08:52:00 GMT',
+          ),
+          'pragma' => 
+          array (
+            0 => 'no-cache',
+          ),
+          'x-amzn-remapped-date' => 
+          array (
+            0 => 'Mon, 04 Feb 2019 17:17:57 GMT',
+          ),
+          'x-cache' => 
+          array (
+            0 => 'Miss from cloudfront',
+          ),
+          'via' => 
+          array (
+            0 => '1.1 89c822bb1ce1445a7be6d1057088cfbf.cloudfront.net (CloudFront)',
+          ),
+          'x-amz-cf-id' => 
+          array (
+            0 => 'TLbpmw3LVG1cXiBAQa2BKU8L4tELmbqw0xB-TT6gi4yNSrq1r_Prng==',
+          ),
+        ),
+      )),
+       'status_code' => 200,
+       'protocol_version' => 1.1,
+       'success' => true,
+       'redirects' => 0,
+       'url' => 'https://7aj6amlu38.execute-api.us-east-1.amazonaws.com/prod/v2',
+       'history' => 
+      array (
+      ),
+       'cookies' => 
+      Requests_Cookie_Jar::__set_state(array(
+         'cookies' => 
+        array (
+          'PHPSESSID' => 
+          Requests_Cookie::__set_state(array(
+             'name' => 'PHPSESSID',
+             'value' => '1761c1d38395a68be35e27d93329751c',
+             'attributes' => 
+            Requests_Utility_CaseInsensitiveDictionary::__set_state(array(
+               'data' => 
+              array (
+                'path' => '/',
+                'domain' => '7aj6amlu38.execute-api.us-east-1.amazonaws.com',
+              ),
+            )),
+             'flags' => 
+            array (
+              'creation' => 1549300678,
+              'last-access' => 1549300678,
+              'persistent' => false,
+              'host-only' => true,
+            ),
+             'reference_time' => 1549300678,
+          )),
+        ),
+      )),
+    )),
+     'filename' => NULL,
+     'data' => NULL,
+     'headers' => NULL,
+     'status' => NULL,
+  )),
+)
+[2019-02-04 17:17:58.443561] [WPBackItUp_License::edd_license_api_request]::[INFO]: Response Code:200
+[2019-02-04 17:17:58.482433] [WPBackItUp_License::update_license_options]::[INFO]: Updating License Options
+[2019-02-04 17:17:58.500854] [WPBackItUp_License::update_license_options]::[INFO]: Updated Option: license_key:c11c0bce53f76d9b773c62807bc7859c
+[2019-02-04 17:17:58.503078] [WPBackItUp_License::update_license_options]::[INFO]: Updated Option: license_last_check_date:2019-02-04 17:17:57
+[2019-02-04 17:17:58.504786] [WPBackItUp_License::update_license_options]::[INFO]: Updated Option: license_status:invalid
+[2019-02-04 17:17:58.509520] [WPBackItUp_License::update_license_options]::[INFO]: Updated Option: license_status_message:Activation limit has been reached.
+[2019-02-04 17:17:58.509751] [WPBackItUp_License::update_license_options]::[INFO]: Updated Option: license_expires:2019-12-12 23:59:59
+[2019-02-04 17:17:58.523075] [WPBackItUp_License::update_license_options]::[INFO]: Updated Option: license_limit:2
+[2019-02-04 17:17:58.545341] [WPBackItUp_License::update_license_options]::[INFO]: Updated Option: license_sitecount:2
+[2019-02-04 17:17:58.553396] [WPBackItUp_License::update_license_options]::[INFO]: Updated Option: license_type:1
+[2019-02-04 17:17:58.553618] [WPBackItUp_License::update_license_options]::[INFO]: Updated Option: license_customer_name:Wolli Ruf
+[2019-02-04 17:17:58.553720] [WPBackItUp_License::update_license_options]::[INFO]: Updated Option: license_customer_email:mediendesign@wolliruf.com
+[2019-02-04 17:17:58.562228] [WPBackItUp_License::update_license_options]::[INFO]: Updated Option: license_product_id:679

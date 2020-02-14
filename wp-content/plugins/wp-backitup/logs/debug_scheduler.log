@@ -1,0 +1,171 @@
+[2019-02-01 9:57:09.018558] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 9:57:09.021245] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 9:57:09.194468] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 9:57:09.217396] [debug] **Check Cleanup Schedule**
+[2019-02-01 9:57:09.217545] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 10:57:09
+[2019-02-01 9:57:09.217654] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 10:22:12
+[2019-02-01 9:57:09.217727] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 11:22:12
+[2019-02-01 9:57:09.217796] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549018629:1549020132
+[2019-02-01 9:57:09.217852] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Not yet time to run Cleanup.
+[2019-02-01 9:58:21.638267] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 9:58:21.646872] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 9:58:21.770802] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 9:58:21.888101] [debug] **Check Cleanup Schedule**
+[2019-02-01 9:58:21.888241] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 10:58:21
+[2019-02-01 9:58:21.888329] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 10:22:12
+[2019-02-01 9:58:21.888376] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 11:22:12
+[2019-02-01 9:58:21.888427] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549018701:1549020132
+[2019-02-01 9:58:21.888468] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Not yet time to run Cleanup.
+[2019-02-01 10:03:15.516944] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 10:03:15.575690] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 10:03:15.721167] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 10:03:15.847965] [debug] **Check Cleanup Schedule**
+[2019-02-01 10:03:15.848099] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 11:03:15
+[2019-02-01 10:03:15.848186] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 10:22:12
+[2019-02-01 10:03:15.848239] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 11:22:12
+[2019-02-01 10:03:15.848521] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549018995:1549020132
+[2019-02-01 10:03:15.849029] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Not yet time to run Cleanup.
+[2019-02-01 10:08:20.781188] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 10:08:20.786626] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 10:08:21.175456] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 10:08:21.248490] [debug] **Check Cleanup Schedule**
+[2019-02-01 10:08:21.248651] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 11:08:21
+[2019-02-01 10:08:21.248733] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 10:22:12
+[2019-02-01 10:08:21.248785] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 11:22:12
+[2019-02-01 10:08:21.248836] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549019301:1549020132
+[2019-02-01 10:08:21.249135] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Not yet time to run Cleanup.
+[2019-02-01 10:12:28.635185] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 10:12:28.643182] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 10:12:28.730185] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 10:12:28.838031] [debug] **Check Cleanup Schedule**
+[2019-02-01 10:12:28.838202] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 11:12:28
+[2019-02-01 10:12:28.838303] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 10:22:12
+[2019-02-01 10:12:28.838366] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 11:22:12
+[2019-02-01 10:12:28.838433] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549019548:1549020132
+[2019-02-01 10:12:28.838485] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Not yet time to run Cleanup.
+[2019-02-01 10:17:29.830416] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 10:17:29.832056] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 10:17:29.915755] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 10:17:29.930717] [debug] **Check Cleanup Schedule**
+[2019-02-01 10:17:29.930844] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 11:17:29
+[2019-02-01 10:17:29.930919] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 10:22:12
+[2019-02-01 10:17:29.930968] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 11:22:12
+[2019-02-01 10:17:29.931015] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549019849:1549020132
+[2019-02-01 10:17:29.931082] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Not yet time to run Cleanup.
+[2019-02-01 10:29:20.748198] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 10:29:20.755228] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 10:29:20.782655] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 10:29:20.818413] [debug] **Check Cleanup Schedule**
+[2019-02-01 10:29:20.818949] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 11:29:20
+[2019-02-01 10:29:20.819058] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 10:22:12
+[2019-02-01 10:29:20.819119] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 11:22:12
+[2019-02-01 10:29:20.819394] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549020560:1549020132
+[2019-02-01 10:29:20.819493] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Cleanup should be run now.
+[2019-02-01 10:42:13.516345] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 10:42:13.522181] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 10:42:13.635063] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 10:42:13.658204] [debug] **Check Cleanup Schedule**
+[2019-02-01 10:42:13.658344] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 11:42:13
+[2019-02-01 10:42:13.658436] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 11:29:22
+[2019-02-01 10:42:13.658494] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 12:29:22
+[2019-02-01 10:42:13.658555] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549021333:1549024162
+[2019-02-01 10:42:13.658608] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Not yet time to run Cleanup.
+[2019-02-01 10:43:15.863296] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 10:43:15.866487] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 10:43:15.915323] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 10:43:15.958659] [debug] **Check Cleanup Schedule**
+[2019-02-01 10:43:15.958786] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 11:43:15
+[2019-02-01 10:43:15.958858] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 11:29:22
+[2019-02-01 10:43:15.958899] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 12:29:22
+[2019-02-01 10:43:15.958961] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549021395:1549024162
+[2019-02-01 10:43:15.959007] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Not yet time to run Cleanup.
+[2019-02-01 11:08:05.487452] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 11:08:05.493006] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 11:08:05.576596] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 11:08:05.617162] [debug] **Check Cleanup Schedule**
+[2019-02-01 11:08:05.617295] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 12:08:05
+[2019-02-01 11:08:05.617618] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 11:29:22
+[2019-02-01 11:08:05.617672] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 12:29:22
+[2019-02-01 11:08:05.617727] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549022885:1549024162
+[2019-02-01 11:08:05.617795] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Not yet time to run Cleanup.
+[2019-02-01 11:20:00.509166] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 11:20:00.512552] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 11:20:00.537658] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 11:20:00.563651] [debug] **Check Cleanup Schedule**
+[2019-02-01 11:20:00.563791] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 12:20:00
+[2019-02-01 11:20:00.563872] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 11:29:22
+[2019-02-01 11:20:00.563920] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 12:29:22
+[2019-02-01 11:20:00.563971] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549023600:1549024162
+[2019-02-01 11:20:00.564013] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Not yet time to run Cleanup.
+[2019-02-01 11:33:22.379906] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 11:33:22.383076] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 11:33:22.429359] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 11:33:22.452373] [debug] **Check Cleanup Schedule**
+[2019-02-01 11:33:22.452512] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 12:33:22
+[2019-02-01 11:33:22.452605] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 11:29:22
+[2019-02-01 11:33:22.452672] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 12:29:22
+[2019-02-01 11:33:22.452733] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549024402:1549024162
+[2019-02-01 11:33:22.452785] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Cleanup should be run now.
+[2019-02-01 11:39:07.454902] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 11:39:07.464760] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 11:39:07.503962] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 11:39:07.537662] [debug] **Check Cleanup Schedule**
+[2019-02-01 11:39:07.538028] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 12:39:07
+[2019-02-01 11:39:07.538549] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 12:33:25
+[2019-02-01 11:39:07.538613] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 13:33:25
+[2019-02-01 11:39:07.538674] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549024747:1549028005
+[2019-02-01 11:39:07.538729] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Not yet time to run Cleanup.
+[2019-02-01 11:43:24.975347] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 11:43:24.977945] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 11:43:25.091459] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 11:43:25.119206] [debug] **Check Cleanup Schedule**
+[2019-02-01 11:43:25.119332] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 12:43:25
+[2019-02-01 11:43:25.119407] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 12:33:25
+[2019-02-01 11:43:25.119455] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 13:33:25
+[2019-02-01 11:43:25.119503] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549025005:1549028005
+[2019-02-01 11:43:25.119544] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Not yet time to run Cleanup.
+[2019-02-01 11:49:28.370862] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 11:49:28.392709] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 11:49:28.500056] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 11:49:28.645925] [debug] **Check Cleanup Schedule**
+[2019-02-01 11:49:28.646065] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 12:49:28
+[2019-02-01 11:49:28.646167] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 12:33:25
+[2019-02-01 11:49:28.646222] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 13:33:25
+[2019-02-01 11:49:28.646277] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549025368:1549028005
+[2019-02-01 11:49:28.646325] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Not yet time to run Cleanup.
+[2019-02-01 11:53:24.501743] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 11:53:24.504038] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 11:53:24.593534] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 11:53:24.629262] [debug] **Check Cleanup Schedule**
+[2019-02-01 11:53:24.629378] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 12:53:24
+[2019-02-01 11:53:24.629451] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 12:33:25
+[2019-02-01 11:53:24.629504] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 13:33:25
+[2019-02-01 11:53:24.629561] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549025604:1549028005
+[2019-02-01 11:53:24.629604] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Not yet time to run Cleanup.
+[2019-02-01 12:05:23.825412] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 12:05:23.832508] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 12:05:23.870141] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 12:05:23.894514] [debug] **Check Cleanup Schedule**
+[2019-02-01 12:05:23.894643] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 13:05:23
+[2019-02-01 12:05:23.894723] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 12:33:25
+[2019-02-01 12:05:23.894776] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 13:33:25
+[2019-02-01 12:05:23.894825] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549026323:1549028005
+[2019-02-01 12:05:23.894870] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Not yet time to run Cleanup.
+[2019-02-01 12:07:25.720212] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-01 12:07:25.726341] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-01 12:07:25.776783] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-01 12:07:25.803528] [debug] **Check Cleanup Schedule**
+[2019-02-01 12:07:25.803690] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-01 13:07:25
+[2019-02-01 12:07:25.803869] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 12:33:25
+[2019-02-01 12:07:25.803941] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 13:33:25
+[2019-02-01 12:07:25.804030] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549026445:1549028005
+[2019-02-01 12:07:25.804094] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Not yet time to run Cleanup.
+[2019-02-04 17:17:53.018543] [WPBackItUp_Scheduler::check_queue_jobs_schedule]::[INFO]: Queue Scheduled Job runs every:'every_5_minutes'
+[2019-02-04 17:17:53.026098] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: backup
+[2019-02-04 17:17:53.148355] [WPBackItUp_Scheduler::isJobScheduled]::[INFO]: Check schedule for task: cleanup
+[2019-02-04 17:17:53.187881] [debug] **Check Cleanup Schedule**
+[2019-02-04 17:17:53.188066] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Current Date time:2019-02-04 18:17:53
+[2019-02-04 17:17:53.188877] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Last Run Date Time:2019-02-01 12:33:25
+[2019-02-04 17:17:53.188976] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Next Run Date Time:2019-02-01 13:33:25
+[2019-02-04 17:17:53.189062] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: TimeToRun:1549304273:1549028005
+[2019-02-04 17:17:53.189179] [WPBackItUp_Scheduler::check_cleanup_schedule]::[INFO]: Cleanup should be run now.

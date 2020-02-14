@@ -1,0 +1,20 @@
+[2019-02-01 10:19:53.103769] [WPBackItUp_API::get_backup_schedule]::[INFO]: Schedule: 
+[2019-02-01 10:19:53.103969] [WPBackItUp_API::get_backup_schedule]::[INFO]: Response: array (
+  'name' => 'Weekly Backup(default)',
+  'frequency' => 'week',
+  'days' => 
+  array (
+    0 => false,
+    1 => false,
+    2 => false,
+    3 => false,
+    4 => false,
+    5 => false,
+    6 => false,
+    '' => true,
+  ),
+  'day' => false,
+  'start_time' => '01:00',
+  'start_date' => 1549016393,
+  'enabled' => true,
+)

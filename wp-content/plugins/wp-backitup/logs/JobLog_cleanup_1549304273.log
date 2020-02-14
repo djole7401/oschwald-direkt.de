@@ -1,0 +1,201 @@
+[2019-02-04 17:17:57.513780] [debug] ***BEGIN JOB***
+[2019-02-04 17:17:57.658191] [debug] 
+**SYSTEM INFO**
+[2019-02-04 17:17:57.658359] [debug] 
+--WPBackItUp Info--
+[2019-02-04 17:17:57.659219] [debug] WPBACKITUP License Active: true
+[2019-02-04 17:17:57.661051] [debug] WPBACKITUP_PREMIUM__PLUGIN_AUTHOR:WPBackItUp
+[2019-02-04 17:17:57.661122] [debug] WPBACKITUP_PREMIUM__PLUGIN_NAME:WP BackItUp Premium
+[2019-02-04 17:17:57.661170] [debug] WPBACKITUP_PREMIUM__ITEM_ID:679
+[2019-02-04 17:17:57.661217] [debug] WPBACKITUP_PREMIUM__MAJOR_VERSION:1
+[2019-02-04 17:17:57.661262] [debug] WPBACKITUP_PREMIUM__MINOR_VERSION:24
+[2019-02-04 17:17:57.661303] [debug] WPBACKITUP_PREMIUM__MAINTENANCE_VERSION:0
+[2019-02-04 17:17:57.661345] [debug] WPBACKITUP_PREMIUM__BUILD_VERSION:0
+[2019-02-04 17:17:57.661386] [debug] WPBACKITUP_PREMIUM__VERSION:1.24.0.0
+[2019-02-04 17:17:57.661428] [debug] WPBACKITUP_PREMIUM__CE_MIN_VERSION:1.26.0
+[2019-02-04 17:17:57.661470] [debug] WPBACKITUP_PREMIUM__PHP_MIN_VERSION:5.6
+[2019-02-04 17:17:57.662329] [debug] WPBACKITUP__NAMESPACE:wp-backitup
+[2019-02-04 17:17:57.662391] [debug] WPBACKITUP__CLASSNAMESPACE:WPBackItUp
+[2019-02-04 17:17:57.662436] [debug] WPBACKITUP__MAJOR_VERSION:1
+[2019-02-04 17:17:57.662475] [debug] WPBACKITUP__MINOR_VERSION:31
+[2019-02-04 17:17:57.662513] [debug] WPBACKITUP__MAINTENANCE_VERSION:0
+[2019-02-04 17:17:57.662574] [debug] WPBACKITUP__BUILD_VERSION:0
+[2019-02-04 17:17:57.662615] [debug] WPBACKITUP__VERSION:1.31.0.0
+[2019-02-04 17:17:57.662655] [debug] WPBACKITUP__DB_VERSION:4
+[2019-02-04 17:17:57.662717] [debug] WPBACKITUP__DEBUG:
+[2019-02-04 17:17:57.662756] [debug] WPBACKITUP__MINIMUM_WP_VERSION:3.0
+[2019-02-04 17:17:57.665875] [debug] WPBACKITUP__FRIENDLY_NAME:WPBackItUp
+[2019-02-04 17:17:57.665952] [debug] WPBACKITUP__CONTENT_PATH:/html/wordpress-oschwald-direkt-de/wp-content
+[2019-02-04 17:17:57.665987] [debug] WPBACKITUP__SITE_URL:http://www.wpbackitup.com
+[2019-02-04 17:17:57.666021] [debug] WPBACKITUP__SECURESITE_URL:https://www.wpbackitup.com
+[2019-02-04 17:17:57.666052] [debug] WPBACKITUP__SUPPORTSITE_URL:http://support.wpbackitup.com
+[2019-02-04 17:17:57.666081] [debug] WPBACKITUP__API_URL:https://7aj6amlu38.execute-api.us-east-1.amazonaws.com/prod/v1
+[2019-02-04 17:17:57.666137] [debug] WPBACKITUP__API_URL_V2:https://7aj6amlu38.execute-api.us-east-1.amazonaws.com/prod/v2
+[2019-02-04 17:17:57.666172] [debug] WPBACKITUP__PLUGIN_FILE_PATH:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup/wp-backitup.php
+[2019-02-04 17:17:57.666203] [debug] WPBACKITUP__PLUGIN_URL:https://dev.oschwald-direkt.de/wp-content/plugins/wp-backitup/
+[2019-02-04 17:17:57.666234] [debug] WPBACKITUP__PLUGIN_PATH:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup/
+[2019-02-04 17:17:57.666265] [debug] WPBACKITUP__PLUGIN_FOLDER:wp-backitup
+[2019-02-04 17:17:57.666295] [debug] WPBACKITUP__VENDOR_PATH:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//vendor
+[2019-02-04 17:17:57.666326] [debug] WPBACKITUP__BACKUP_FOLDER:wpbackitup_backups
+[2019-02-04 17:17:57.666356] [debug] WPBACKITUP__BACKUP_URL:https://dev.oschwald-direkt.de/wp-content/wpbackitup_backups
+[2019-02-04 17:17:57.666387] [debug] WPBACKITUP__BACKUP_PATH:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_backups
+[2019-02-04 17:17:57.666416] [debug] WPBACKITUP__UPLOAD_FOLDER:TMP_Uploads
+[2019-02-04 17:17:57.666448] [debug] WPBACKITUP__UPLOAD_PATH:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_backups/TMP_Uploads
+[2019-02-04 17:17:57.666477] [debug] WPBACKITUP__LOGS_PATH:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup/logs
+[2019-02-04 17:17:57.666507] [debug] WPBACKITUP__RESTORE_FOLDER:wpbackitup_restore
+[2019-02-04 17:17:57.668287] [debug] WPBACKITUP__RESTORE_PATH:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore
+[2019-02-04 17:17:57.668329] [debug] WPBACKITUP__PLUGINS_ROOT_PATH:/html/wordpress-oschwald-direkt-de/wp-content/plugins
+[2019-02-04 17:17:57.668365] [debug] WPBACKITUP__THEMES_ROOT_PATH:/html/wordpress-oschwald-direkt-de/wp-content/themes
+[2019-02-04 17:17:57.668427] [debug] WPBACKITUP__THEMES_FOLDER:themes
+[2019-02-04 17:17:57.668462] [debug] WPBACKITUP__SQL_DBBACKUP_FILENAME:db-backup.sql
+[2019-02-04 17:17:57.668493] [debug] WPBACKITUP__VALID_FILENAME_REGEX:([^\w\s\d\-_~,.;@\[\]\(\).])
+[2019-02-04 17:17:57.668524] [debug] WPBACKITUP__BACKUP_GLOBAL_IGNORE_LIST:.htaccess
+[2019-02-04 17:17:57.668555] [debug] WPBACKITUP__TASK_TIMEOUT_SECONDS:120
+[2019-02-04 17:17:57.668585] [debug] WPBACKITUP__SCRIPT_TIMEOUT_SECONDS:900
+[2019-02-04 17:17:57.668616] [debug] WPBACKITUP__TASK_WAIT_SECONDS:2
+[2019-02-04 17:17:57.668659] [debug] WPBACKITUP__BACKUP_RETAINED_DAYS:5
+[2019-02-04 17:17:57.668690] [debug] WPBACKITUP__SUPPORT_EMAIL:wpbackitupcomsupport@wpbackitup.freshdesk.com
+[2019-02-04 17:17:57.668721] [debug] WPBACKITUP__SQL_BULK_INSERT_SIZE:1000
+[2019-02-04 17:17:57.668751] [debug] WPBACKITUP__ZIP_MAX_FILE_SIZE:524288000
+[2019-02-04 17:17:57.668781] [debug] WPBACKITUP__THEMES_BATCH_SIZE:5000
+[2019-02-04 17:17:57.668812] [debug] WPBACKITUP__PLUGINS_BATCH_SIZE:5000
+[2019-02-04 17:17:57.668843] [debug] WPBACKITUP__OTHERS_BATCH_SIZE:500
+[2019-02-04 17:17:57.668873] [debug] WPBACKITUP__UPLOADS_BATCH_SIZE:500
+[2019-02-04 17:17:57.668904] [debug] WPBACKITUP__DATABASE_BATCH_SIZE:10000
+[2019-02-04 17:17:57.668934] [debug] WPBACKITUP__SQL_MERGE_BATCH_SIZE:10000
+[2019-02-04 17:17:57.668963] [debug] WPBACKITUP__SQL_BATCH_SIZE:10000
+[2019-02-04 17:17:57.669167] [debug] 
+--Site Info--
+[2019-02-04 17:17:57.684237] [debug] Site URL:https://dev.oschwald-direkt.de
+[2019-02-04 17:17:57.684415] [debug] Home URL:https://dev.oschwald-direkt.de
+[2019-02-04 17:17:57.684463] [debug] Multisite:No
+[2019-02-04 17:17:57.684495] [debug] 
+--Wordpress Info--
+[2019-02-04 17:17:57.684534] [debug] Wordpress Version:5.0.3
+[2019-02-04 17:17:57.684567] [debug] Language:en_US
+[2019-02-04 17:17:57.684598] [debug] DB_HOST:db1438.mydbserver.com
+[2019-02-04 17:17:57.684636] [debug] Table Prefix:Length: 3   Status: Acceptable
+[2019-02-04 17:17:57.684668] [debug] WP_DEBUG:Disabled
+[2019-02-04 17:17:57.684698] [debug] Memory Limit:40M
+[2019-02-04 17:17:57.684727] [debug] 
+--WordPress Active Plugins--
+[2019-02-04 17:17:57.684814] [debug] Admin Menu Tree Page View: 2.7.1
+[2019-02-04 17:17:57.684854] [debug] Cart2cart: Magento to Woocommerce Plugin: 2.0.0
+[2019-02-04 17:17:57.684889] [debug] Cart2Cart: Password Migration: 1.1
+[2019-02-04 17:17:57.684920] [debug] Color or Image Variation Swatches for WooCommerce: 1.0.9
+[2019-02-04 17:17:57.684952] [debug] Contact Form 7: 5.1.1
+[2019-02-04 17:17:57.684983] [debug] Duplicate Page: 3.2
+[2019-02-04 17:17:57.685014] [debug] Email Address Encoder: 1.0.14
+[2019-02-04 17:17:57.685045] [debug] Enhanced Media Library: 2.7.2
+[2019-02-04 17:17:57.685077] [debug] External Links to New Window: 2.0.4
+[2019-02-04 17:17:57.685127] [debug] GetWooPlugins Updater: 1.0.0
+[2019-02-04 17:17:57.685374] [debug] Loco Translate: 2.2.0
+[2019-02-04 17:17:57.685406] [debug] PayPal Plus for WooCommerce: 1.0.8
+[2019-02-04 17:17:57.685439] [debug] ShortPixel Image Optimizer: 4.12.6
+[2019-02-04 17:17:57.685470] [debug] Simple Page Sidebars: 1.2.1
+[2019-02-04 17:17:57.685501] [debug] Vendidero Helper: 1.2.1
+[2019-02-04 17:17:57.685533] [debug] Woocomerce Brands lite: 2.0
+[2019-02-04 17:17:57.685564] [debug] WooCommerce: 3.5.4
+[2019-02-04 17:17:57.685595] [debug] WooCommerce Additional Variation Images Gallery: 1.1.20
+[2019-02-04 17:17:57.685626] [debug] WooCommerce Additional Variation Images Gallery - Pro: 1.1.7
+[2019-02-04 17:17:57.685658] [debug] WooCommerce Blocks: 1.3.1
+[2019-02-04 17:17:57.685689] [debug] WooCommerce Germanized: 2.2.7
+[2019-02-04 17:17:57.685924] [debug] WooCommerce Germanized Pro: 1.9.9
+[2019-02-04 17:17:57.685955] [debug] WooCommerce Measurement Price Calculator: 3.13.5
+[2019-02-04 17:17:57.685986] [debug] WooCommerce Table Rate Shipping: 4.1.3
+[2019-02-04 17:17:57.686018] [debug] WP BackItUp Community Edition: 1.31.0
+[2019-02-04 17:17:57.686049] [debug] WP BackItUp Premium: 1.24.0
+[2019-02-04 17:17:57.686081] [debug] WP Cerber Security, Antispam & Malware Scan: 7.9.7
+[2019-02-04 17:17:57.686129] [debug] WP Super Cache: 1.6.4
+[2019-02-04 17:17:57.686189] [debug] 
+--WordPress Inactive Plugins--
+[2019-02-04 17:17:57.686227] [debug] Akismet Anti-Spam: 4.1.1
+[2019-02-04 17:17:57.686259] [debug] Better Search Replace: 1.3.2
+[2019-02-04 17:17:57.686297] [debug] WooCommerce Services: 1.18.0
+[2019-02-04 17:17:57.686331] [debug] 
+--Server Info--
+[2019-02-04 17:17:57.686362] [debug] PHP Version:7.1.22
+[2019-02-04 17:17:57.686393] [debug] Webserver Info:Apache
+[2019-02-04 17:17:57.686434] [debug] MySQL Version:5.6.42
+[2019-02-04 17:17:57.686465] [debug] 
+--PHP Info--
+[2019-02-04 17:17:57.686497] [debug] PHP Info:7.1.22
+[2019-02-04 17:17:57.686785] [debug] Operating System:Linux ovm5011 2.6.32-openvz-042stab131.1-amd64 #1 SMP Wed Jun 20 16:35:49 MSK 2018 i686
+[2019-02-04 17:17:57.686827] [debug] PHP Safe Mode: Off
+[2019-02-04 17:17:57.686863] [debug] SQL Safe Mode: Off
+[2019-02-04 17:17:57.686897] [debug] Script Max Execution Time:240
+[2019-02-04 17:17:57.686933] [debug] Memory Limit:256M
+[2019-02-04 17:17:57.686964] [debug] Upload Max Size:32M
+[2019-02-04 17:17:57.686996] [debug] Post Max Size:32M
+[2019-02-04 17:17:57.687027] [debug] Upload Max Filesize:32M
+[2019-02-04 17:17:57.687060] [debug] Max Input Vars:1500
+[2019-02-04 17:17:57.687119] [debug] Display Errors:N/A
+[2019-02-04 17:17:57.687160] [debug] Curl Installed:True
+[2019-02-04 17:17:57.687191] [debug] 
+**END SYSTEM INFO**
+[2019-02-04 17:17:57.687257] [debug] **CHECK LICENSE**
+[2019-02-04 17:17:58.562417] [debug] **END CHECK LICENSE**
+[2019-02-04 17:17:58.574280] [WPBackItUp_Cleanup::purge_job_control]::[INFO]: Backup Retention:3
+[2019-02-04 17:17:58.574357] [debug] **CLEANUP JOB CONTROL RECORDS**
+[2019-02-04 17:17:58.583642] [WPBackItUp_Cleanup::purge_job_control]::[INFO]: Backup job control records purged:0
+[2019-02-04 17:17:58.601572] [WPBackItUp_Cleanup::purge_job_control]::[INFO]: Cleanup job control records purged:1
+[2019-02-04 17:17:58.601664] [debug] **END CLEANUP JOB CONTROL RECORDS**
+[2019-02-04 17:17:58.612919] [debug] **CLEAN UNFINISHED BACKUPS**
+[2019-02-04 17:17:58.612992] [WPBackItUp_Backup::cleanup_backups_by_prefix]::[INFO]: Begin
+[2019-02-04 17:17:58.613168] [WPBackItUp_Backup::cleanup_backups_by_prefix]::[INFO]: End
+[2019-02-04 17:17:58.613257] [debug] **END CLEAN UNFINISHED BACKUPS**
+[2019-02-04 17:17:58.613354] [debug] **CLEAN DELETED BACKUPS**
+[2019-02-04 17:17:58.613426] [WPBackItUp_Backup::cleanup_backups_by_prefix]::[INFO]: Begin
+[2019-02-04 17:17:58.613584] [WPBackItUp_Backup::cleanup_backups_by_prefix]::[INFO]: End
+[2019-02-04 17:17:58.613672] [debug] **END CLEAN DELETED BACKUPS**
+[2019-02-04 17:17:58.623615] [debug] **CLEAN OLD BACKUPS**
+[2019-02-04 17:17:58.623770] [WPBackItUp_Backup::purge_orphaned_backups]::[INFO]: Directory Cleanup job completed.
+[2019-02-04 17:17:58.623830] [debug] **END CLEAN OLD BACKUPS**
+[2019-02-04 17:17:58.623879] [debug] **CLEAN OLD RESTORES**
+[2019-02-04 17:17:58.623925] [WPBackItUp_Premium_Restore::delete_restore_folders]::[INFO]: Begin delete restore folders.
+[2019-02-04 17:17:58.624123] [WPBackItUp_Premium_Restore::delete_restore_folders]::[INFO]: Delete restore folders completed.
+[2019-02-04 17:17:58.624175] [WPBackItUp_Premium_Restore::delete_restore_folders]::[INFO]: Delete root files.
+[2019-02-04 17:17:58.624289] [WPBackItUp_FileSystem::delete_files]::[INFO]: Begin
+[2019-02-04 17:17:58.624533] [WPBackItUp_FileSystem::delete_files]::[INFO]: Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/index.html
+[2019-02-04 17:17:58.624722] [WPBackItUp_FileSystem::delete_files]::[INFO]: Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/web.config
+[2019-02-04 17:17:58.624805] [WPBackItUp_FileSystem::delete_files]::[INFO]: End
+[2019-02-04 17:17:58.624864] [WPBackItUp_Premium_Restore::delete_restore_folders]::[INFO]: End Delete root files.
+[2019-02-04 17:17:58.624926] [debug] **END CLEAN OLD RESTORES**
+[2019-02-04 17:17:58.637294] [debug] **PURGE OLD FILES**
+[2019-02-04 17:17:58.638394] [WPBackItUp_FileSystem::purge_FilesByDate]::[INFO]: Purge files by date:5:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_backups/
+[2019-02-04 17:17:58.643610] [WPBackItUp_FileSystem::purge_FilesByDate]::[INFO]:  File:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_backups/wordpress.p494915.webspaceconfig.de_1549012251-backupset-1549013404.zip
+[2019-02-04 17:17:58.643744] [WPBackItUp_FileSystem::purge_FilesByDate]::[INFO]:  File Date Time:1549017974
+[2019-02-04 17:17:58.643795] [WPBackItUp_FileSystem::purge_FilesByDate]::[INFO]: Completed.
+[2019-02-04 17:17:58.643837] [WPBackItUp_FileSystem::purge_files]::[INFO]: Purge files days:5
+[2019-02-04 17:17:58.643877] [WPBackItUp_FileSystem::purge_files]::[INFO]: Purge files path:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_backups/
+[2019-02-04 17:17:58.643913] [WPBackItUp_FileSystem::purge_files]::[INFO]: Purge files extension:*.log
+[2019-02-04 17:17:58.644068] [WPBackItUp_FileSystem::purge_files]::[INFO]: Completed.
+[2019-02-04 17:17:58.644119] [WPBackItUp_FileSystem::purge_files]::[INFO]: Purge files days:5
+[2019-02-04 17:17:58.644155] [WPBackItUp_FileSystem::purge_files]::[INFO]: Purge files path:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_backups/
+[2019-02-04 17:17:58.644190] [WPBackItUp_FileSystem::purge_files]::[INFO]: Purge files extension:db*.cur
+[2019-02-04 17:17:58.644315] [WPBackItUp_FileSystem::purge_files]::[INFO]: Completed.
+[2019-02-04 17:17:58.644392] [WPBackItUp_FileSystem::purge_files]::[INFO]: Purge files days:5
+[2019-02-04 17:17:58.644459] [WPBackItUp_FileSystem::purge_files]::[INFO]: Purge files path:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/
+[2019-02-04 17:17:58.644535] [WPBackItUp_FileSystem::purge_files]::[INFO]: Purge files extension:*.log
+[2019-02-04 17:17:58.692698] [WPBackItUp_FileSystem::purge_files]::[INFO]: File:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/debug_PLUGIN_Upgrade.log
+[2019-02-04 17:17:58.693141] [WPBackItUp_FileSystem::purge_files]::[INFO]: File Date Time:1549008730
+[2019-02-04 17:17:58.693276] [WPBackItUp_FileSystem::purge_files]::[INFO]: Completed.
+[2019-02-04 17:17:58.693342] [WPBackItUp_FileSystem::purge_files]::[INFO]: Purge files days:5
+[2019-02-04 17:17:58.693387] [WPBackItUp_FileSystem::purge_files]::[INFO]: Purge files path:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/
+[2019-02-04 17:17:58.693423] [WPBackItUp_FileSystem::purge_files]::[INFO]: Purge files extension:*.zip
+[2019-02-04 17:17:58.693759] [WPBackItUp_FileSystem::purge_files]::[INFO]: Completed.
+[2019-02-04 17:17:58.697844] [debug] **END PURGE OLD FILES**
+[2019-02-04 17:17:58.718206] [debug] **SECURE FOLDERS**
+[2019-02-04 17:17:58.718278] [WPBackItUp_FileSystem::secure_folder]::[INFO]: Begin
+[2019-02-04 17:17:58.718655] [WPBackItUp_FileSystem::secure_folder]::[INFO]: Secure files exist or were created.
+[2019-02-04 17:17:58.718725] [WPBackItUp_FileSystem::secure_folder]::[INFO]: End
+[2019-02-04 17:17:58.718835] [WPBackItUp_FileSystem::secure_folder]::[INFO]: Begin
+[2019-02-04 17:17:58.719510] [WPBackItUp_FileSystem::secure_folder]::[INFO]: Secure files exist or were created.
+[2019-02-04 17:17:58.719590] [WPBackItUp_FileSystem::secure_folder]::[INFO]: End
+[2019-02-04 17:17:58.719661] [WPBackItUp_FileSystem::secure_folder]::[INFO]: Begin
+[2019-02-04 17:17:58.720124] [WPBackItUp_FileSystem::secure_folder]::[INFO]: Secure files exist or were created.
+[2019-02-04 17:17:58.720202] [WPBackItUp_FileSystem::secure_folder]::[INFO]: End
+[2019-02-04 17:17:58.720274] [debug] **END SECURE FOLDERS**
+[2019-02-04 17:17:58.733275] [WPBackItUp_Cleanup::end]::[INFO]: Begin
+[2019-02-04 17:17:58.815598] [WPBackItUp_Cleanup::end]::[INFO]: Script Processing Time:0 Minutes 1 Seconds
+[2019-02-04 17:17:58.815669] [debug] *** END JOB ***

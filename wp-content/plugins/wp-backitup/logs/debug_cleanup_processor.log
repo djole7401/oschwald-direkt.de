@@ -1,0 +1,42 @@
+[2019-02-01 10:29:22.260016] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_begin
+[2019-02-01 10:29:22.287813] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-01 10:29:22.295511] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_purge_job_control
+[2019-02-01 10:29:22.319803] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-01 10:29:22.320920] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_purge_prefixed_folder_and_files
+[2019-02-01 10:29:22.324280] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-01 10:29:22.328593] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_purge_orphan_folder_and_files
+[2019-02-01 10:29:22.426589] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-01 10:29:22.427903] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_purge_old_files
+[2019-02-01 10:29:22.483863] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-01 10:29:22.487549] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_secure_folders
+[2019-02-01 10:29:22.492335] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-01 10:29:22.499170] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_end
+[2019-02-01 10:29:22.512542] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-01 11:33:25.127809] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_begin
+[2019-02-01 11:33:25.157300] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-01 11:33:25.162785] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_purge_job_control
+[2019-02-01 11:33:25.193023] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-01 11:33:25.197046] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_purge_prefixed_folder_and_files
+[2019-02-01 11:33:25.213393] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-01 11:33:25.215377] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_purge_orphan_folder_and_files
+[2019-02-01 11:33:25.259565] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-01 11:33:25.262974] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_purge_old_files
+[2019-02-01 11:33:25.347676] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-01 11:33:25.349049] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_secure_folders
+[2019-02-01 11:33:25.371808] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-01 11:33:25.373157] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_end
+[2019-02-01 11:33:25.390981] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-04 17:17:57.478172] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_begin
+[2019-02-04 17:17:58.571815] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-04 17:17:58.574165] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_purge_job_control
+[2019-02-04 17:17:58.609038] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-04 17:17:58.611766] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_purge_prefixed_folder_and_files
+[2019-02-04 17:17:58.621119] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-04 17:17:58.623537] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_purge_orphan_folder_and_files
+[2019-02-04 17:17:58.632314] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-04 17:17:58.637172] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_purge_old_files
+[2019-02-04 17:17:58.709003] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-04 17:17:58.718080] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_secure_folders
+[2019-02-04 17:17:58.731503] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered
+[2019-02-04 17:17:58.733181] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Cleanup task - method to be triggered: wpbackitup_cleanup_end
+[2019-02-04 17:17:58.827729] [WPBackItUp_Cleanup_Processor::task]::[INFO]: Hook should be triggered

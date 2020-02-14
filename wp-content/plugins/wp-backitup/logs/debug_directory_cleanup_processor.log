@@ -1,0 +1,599 @@
+[2019-02-01 9:49:09.695396] [WPBackItUp_Directory_Cleanup_Processor::task]::[INFO]: Directory to be deleted: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/index.html
+[2019-02-01 9:49:09.695858] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/index.html
+[2019-02-01 9:49:09.695920] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 9:49:09.699836] [debug] 0: ''
+[2019-02-01 9:49:09.702028] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 9:49:09.702117] [WPBackItUp_Directory_Cleanup_Processor::task]::[INFO]: Directory to be deleted: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/web.config
+[2019-02-01 9:49:09.702209] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/web.config
+[2019-02-01 9:49:09.703128] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 9:49:09.703259] [debug] 0: ''
+[2019-02-01 9:49:09.703624] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.257028] [WPBackItUp_Directory_Cleanup_Processor::task]::[INFO]: Directory to be deleted: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145
+[2019-02-01 10:20:32.257451] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145
+[2019-02-01 10:20:32.257508] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.257572] [debug] 0: ''
+[2019-02-01 10:20:32.257983] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes
+[2019-02-01 10:20:32.258034] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.258074] [debug] 0: ''
+[2019-02-01 10:20:32.258286] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen
+[2019-02-01 10:20:32.258331] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.258367] [debug] 0: ''
+[2019-02-01 10:20:32.258853] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/sidebar.php
+[2019-02-01 10:20:32.259059] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/template-parts
+[2019-02-01 10:20:32.259130] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.259196] [debug] 0: ''
+[2019-02-01 10:20:32.259680] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/template-parts/content.php
+[2019-02-01 10:20:32.260046] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/template-parts/content-single.php
+[2019-02-01 10:20:32.262216] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/template-parts/content-page.php
+[2019-02-01 10:20:32.262546] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/template-parts/content-search.php
+[2019-02-01 10:20:32.262893] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/template-parts/biography.php
+[2019-02-01 10:20:32.263216] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/template-parts/content-none.php
+[2019-02-01 10:20:32.263443] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/template-parts
+[2019-02-01 10:20:32.263554] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.264028] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/screenshot.png
+[2019-02-01 10:20:32.264327] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/readme.txt
+[2019-02-01 10:20:32.265374] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/js
+[2019-02-01 10:20:32.265422] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.265460] [debug] 0: ''
+[2019-02-01 10:20:32.265959] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/js/html5.js
+[2019-02-01 10:20:32.266302] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/js/color-scheme-control.js
+[2019-02-01 10:20:32.269052] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/js/customize-preview.js
+[2019-02-01 10:20:32.269380] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/js/functions.js
+[2019-02-01 10:20:32.269737] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/js/keyboard-image-navigation.js
+[2019-02-01 10:20:32.270085] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/js/skip-link-focus-fix.js
+[2019-02-01 10:20:32.270257] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/js
+[2019-02-01 10:20:32.270353] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.270687] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/style.css
+[2019-02-01 10:20:32.270931] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/css
+[2019-02-01 10:20:32.270996] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.271060] [debug] 0: ''
+[2019-02-01 10:20:32.271536] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/css/editor-style.css
+[2019-02-01 10:20:32.276326] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/css/blocks.css
+[2019-02-01 10:20:32.277591] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/css/editor-blocks.css
+[2019-02-01 10:20:32.277949] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/css/ie.css
+[2019-02-01 10:20:32.278872] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/css/ie7.css
+[2019-02-01 10:20:32.279198] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/css/ie8.css
+[2019-02-01 10:20:32.279356] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/css
+[2019-02-01 10:20:32.279445] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.279745] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/archive.php
+[2019-02-01 10:20:32.280059] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/index.php
+[2019-02-01 10:20:32.280352] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/rtl.css
+[2019-02-01 10:20:32.281102] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/sidebar-content-bottom.php
+[2019-02-01 10:20:32.281313] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/functions.php
+[2019-02-01 10:20:32.281455] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/genericons
+[2019-02-01 10:20:32.281497] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.281534] [debug] 0: ''
+[2019-02-01 10:20:32.281903] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/genericons/COPYING.txt
+[2019-02-01 10:20:32.282136] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/genericons/Genericons.eot
+[2019-02-01 10:20:32.282357] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/genericons/LICENSE.txt
+[2019-02-01 10:20:32.299124] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/genericons/Genericons.ttf
+[2019-02-01 10:20:32.299418] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/genericons/README.md
+[2019-02-01 10:20:32.299949] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/genericons/Genericons.svg
+[2019-02-01 10:20:32.300230] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/genericons/genericons.css
+[2019-02-01 10:20:32.300725] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/genericons/Genericons.woff
+[2019-02-01 10:20:32.318218] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/genericons
+[2019-02-01 10:20:32.318316] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.318528] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/image.php
+[2019-02-01 10:20:32.327428] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/404.php
+[2019-02-01 10:20:32.327672] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/footer.php
+[2019-02-01 10:20:32.327899] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/search.php
+[2019-02-01 10:20:32.328094] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/searchform.php
+[2019-02-01 10:20:32.328233] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/inc
+[2019-02-01 10:20:32.328272] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.328311] [debug] 0: ''
+[2019-02-01 10:20:32.329729] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/inc/template-tags.php
+[2019-02-01 10:20:32.329989] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/inc/back-compat.php
+[2019-02-01 10:20:32.330223] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/inc/customizer.php
+[2019-02-01 10:20:32.330333] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/inc
+[2019-02-01 10:20:32.331645] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.331870] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/single.php
+[2019-02-01 10:20:32.332071] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/header.php
+[2019-02-01 10:20:32.332266] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/page.php
+[2019-02-01 10:20:32.335479] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen/comments.php
+[2019-02-01 10:20:32.335880] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentysixteen
+[2019-02-01 10:20:32.335952] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.336935] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/index.php
+[2019-02-01 10:20:32.337074] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen
+[2019-02-01 10:20:32.337116] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.337162] [debug] 0: ''
+[2019-02-01 10:20:32.337753] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/README.txt
+[2019-02-01 10:20:32.338231] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/sidebar.php
+[2019-02-01 10:20:32.338377] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets
+[2019-02-01 10:20:32.338426] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.338463] [debug] 0: ''
+[2019-02-01 10:20:32.338715] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/js
+[2019-02-01 10:20:32.338767] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.338802] [debug] 0: ''
+[2019-02-01 10:20:32.345999] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+[2019-02-01 10:20:32.346304] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/js/html5.js
+[2019-02-01 10:20:32.346565] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/js/global.js
+[2019-02-01 10:20:32.346833] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/js/customize-preview.js
+[2019-02-01 10:20:32.347174] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/js/navigation.js
+[2019-02-01 10:20:32.347680] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+[2019-02-01 10:20:32.348038] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/js/customize-controls.js
+[2019-02-01 10:20:32.349566] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/js
+[2019-02-01 10:20:32.349890] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.350292] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/css
+[2019-02-01 10:20:32.350332] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.350373] [debug] 0: ''
+[2019-02-01 10:20:32.351047] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/css/editor-style.css
+[2019-02-01 10:20:32.351330] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/css/blocks.css
+[2019-02-01 10:20:32.358469] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/css/editor-blocks.css
+[2019-02-01 10:20:32.358737] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/css/ie9.css
+[2019-02-01 10:20:32.359019] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/css/colors-dark.css
+[2019-02-01 10:20:32.359257] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/css/ie8.css
+[2019-02-01 10:20:32.359371] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/css
+[2019-02-01 10:20:32.359436] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.359581] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/images
+[2019-02-01 10:20:32.359620] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.359661] [debug] 0: ''
+[2019-02-01 10:20:32.360094] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/images/espresso.jpg
+[2019-02-01 10:20:32.363123] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/images/header.jpg
+[2019-02-01 10:20:32.363444] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/images/coffee.jpg
+[2019-02-01 10:20:32.363697] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/images/svg-icons.svg
+[2019-02-01 10:20:32.364020] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/images/sandwich.jpg
+[2019-02-01 10:20:32.364140] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets/images
+[2019-02-01 10:20:32.364202] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.364309] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/assets
+[2019-02-01 10:20:32.364366] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.365268] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts
+[2019-02-01 10:20:32.365310] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.365360] [debug] 0: ''
+[2019-02-01 10:20:32.365658] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/navigation
+[2019-02-01 10:20:32.365704] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.365756] [debug] 0: ''
+[2019-02-01 10:20:32.366158] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/navigation/navigation-top.php
+[2019-02-01 10:20:32.366286] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/navigation
+[2019-02-01 10:20:32.366347] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.366507] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/post
+[2019-02-01 10:20:32.366548] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.366595] [debug] 0: ''
+[2019-02-01 10:20:32.367115] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/post/content.php
+[2019-02-01 10:20:32.367373] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/post/content-image.php
+[2019-02-01 10:20:32.368360] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/post/content-audio.php
+[2019-02-01 10:20:32.371546] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/post/content-excerpt.php
+[2019-02-01 10:20:32.371799] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/post/content-gallery.php
+[2019-02-01 10:20:32.372061] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/post/content-none.php
+[2019-02-01 10:20:32.372294] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/post/content-video.php
+[2019-02-01 10:20:32.372670] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/post
+[2019-02-01 10:20:32.372734] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.372899] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/page
+[2019-02-01 10:20:32.372948] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.372987] [debug] 0: ''
+[2019-02-01 10:20:32.373351] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/page/content-page.php
+[2019-02-01 10:20:32.373588] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/page/content-front-page-panels.php
+[2019-02-01 10:20:32.373833] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/page/content-front-page.php
+[2019-02-01 10:20:32.373950] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/page
+[2019-02-01 10:20:32.374025] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.374178] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/header
+[2019-02-01 10:20:32.374219] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.374255] [debug] 0: ''
+[2019-02-01 10:20:32.374622] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/header/header-image.php
+[2019-02-01 10:20:32.374882] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/header/site-branding.php
+[2019-02-01 10:20:32.374991] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/header
+[2019-02-01 10:20:32.375049] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.375200] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/footer
+[2019-02-01 10:20:32.375236] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.375272] [debug] 0: ''
+[2019-02-01 10:20:32.375632] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/footer/footer-widgets.php
+[2019-02-01 10:20:32.375894] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/footer/site-info.php
+[2019-02-01 10:20:32.376003] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts/footer
+[2019-02-01 10:20:32.376068] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.376167] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/template-parts
+[2019-02-01 10:20:32.376226] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.376539] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/screenshot.png
+[2019-02-01 10:20:32.378379] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/style.css
+[2019-02-01 10:20:32.378587] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/archive.php
+[2019-02-01 10:20:32.378784] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/index.php
+[2019-02-01 10:20:32.378992] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/rtl.css
+[2019-02-01 10:20:32.379196] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/functions.php
+[2019-02-01 10:20:32.379404] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/404.php
+[2019-02-01 10:20:32.379605] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/footer.php
+[2019-02-01 10:20:32.379801] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/search.php
+[2019-02-01 10:20:32.380012] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/searchform.php
+[2019-02-01 10:20:32.380141] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/inc
+[2019-02-01 10:20:32.380178] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.380214] [debug] 0: ''
+[2019-02-01 10:20:32.382327] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/inc/template-tags.php
+[2019-02-01 10:20:32.382555] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/inc/back-compat.php
+[2019-02-01 10:20:32.383043] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/inc/customizer.php
+[2019-02-01 10:20:32.383258] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/inc/custom-header.php
+[2019-02-01 10:20:32.383476] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/inc/template-functions.php
+[2019-02-01 10:20:32.383709] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/inc/color-patterns.php
+[2019-02-01 10:20:32.383938] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/inc/icon-functions.php
+[2019-02-01 10:20:32.384051] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/inc
+[2019-02-01 10:20:32.384114] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.384310] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/single.php
+[2019-02-01 10:20:32.385051] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/header.php
+[2019-02-01 10:20:32.385246] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/front-page.php
+[2019-02-01 10:20:32.385432] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/page.php
+[2019-02-01 10:20:32.385631] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen/comments.php
+[2019-02-01 10:20:32.385756] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentyseventeen
+[2019-02-01 10:20:32.385838] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.385962] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen
+[2019-02-01 10:20:32.386001] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.386038] [debug] 0: ''
+[2019-02-01 10:20:32.386352] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/style.scss
+[2019-02-01 10:20:32.386490] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/fonts
+[2019-02-01 10:20:32.386528] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.386564] [debug] 0: ''
+[2019-02-01 10:20:32.387294] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/fonts/NonBreakingSpaceOverride.woff2
+[2019-02-01 10:20:32.387515] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/fonts/NonBreakingSpaceOverride.woff
+[2019-02-01 10:20:32.387617] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/fonts
+[2019-02-01 10:20:32.387671] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.387878] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/style-editor-customizer.scss
+[2019-02-01 10:20:32.388011] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts
+[2019-02-01 10:20:32.388048] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.388084] [debug] 0: ''
+[2019-02-01 10:20:32.388334] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/post
+[2019-02-01 10:20:32.388391] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.388432] [debug] 0: ''
+[2019-02-01 10:20:32.388802] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/post/discussion-meta.php
+[2019-02-01 10:20:32.389065] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/post/author-bio.php
+[2019-02-01 10:20:32.389187] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/post
+[2019-02-01 10:20:32.389244] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.389400] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/content
+[2019-02-01 10:20:32.389455] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.389497] [debug] 0: ''
+[2019-02-01 10:20:32.389873] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/content/content.php
+[2019-02-01 10:20:32.390115] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/content/content-single.php
+[2019-02-01 10:20:32.390348] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/content/content-excerpt.php
+[2019-02-01 10:20:32.390625] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/content/content-page.php
+[2019-02-01 10:20:32.390892] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/content/content-none.php
+[2019-02-01 10:20:32.391010] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/content
+[2019-02-01 10:20:32.392242] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.395473] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/header
+[2019-02-01 10:20:32.395523] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.395560] [debug] 0: ''
+[2019-02-01 10:20:32.396353] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/header/entry-header.php
+[2019-02-01 10:20:32.396631] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/header/site-branding.php
+[2019-02-01 10:20:32.396747] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/header
+[2019-02-01 10:20:32.396811] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.396981] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/footer
+[2019-02-01 10:20:32.397022] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.397059] [debug] 0: ''
+[2019-02-01 10:20:32.397422] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/footer/footer-widgets.php
+[2019-02-01 10:20:32.397546] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts/footer
+[2019-02-01 10:20:32.397603] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.397711] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/template-parts
+[2019-02-01 10:20:32.397768] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.402673] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/screenshot.png
+[2019-02-01 10:20:32.402950] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/print.scss
+[2019-02-01 10:20:32.403157] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/readme.txt
+[2019-02-01 10:20:32.403290] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/js
+[2019-02-01 10:20:32.403330] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.403367] [debug] 0: ''
+[2019-02-01 10:20:32.403731] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/js/priority-menu.js
+[2019-02-01 10:20:32.403995] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/js/touch-keyboard-navigation.js
+[2019-02-01 10:20:32.404223] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/js/customize-preview.js
+[2019-02-01 10:20:32.407145] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/js/skip-link-focus-fix.js
+[2019-02-01 10:20:32.407397] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/js/customize-controls.js
+[2019-02-01 10:20:32.407521] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/js
+[2019-02-01 10:20:32.407588] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.407856] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/style.css
+[2019-02-01 10:20:32.408061] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/style-editor.scss
+[2019-02-01 10:20:32.408265] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/archive.php
+[2019-02-01 10:20:32.409044] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/package.json
+[2019-02-01 10:20:32.409492] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/index.php
+[2019-02-01 10:20:32.409627] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/classes
+[2019-02-01 10:20:32.409666] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.409703] [debug] 0: ''
+[2019-02-01 10:20:32.410295] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/classes/class-twentynineteen-walker-comment.php
+[2019-02-01 10:20:32.410563] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/classes/class-twentynineteen-svg-icons.php
+[2019-02-01 10:20:32.410671] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/classes
+[2019-02-01 10:20:32.410729] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.410959] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/print.css
+[2019-02-01 10:20:32.411199] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/functions.php
+[2019-02-01 10:20:32.411405] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/image.php
+[2019-02-01 10:20:32.411602] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/404.php
+[2019-02-01 10:20:32.411803] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/footer.php
+[2019-02-01 10:20:32.412070] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/style-rtl.css
+[2019-02-01 10:20:32.412333] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/package-lock.json
+[2019-02-01 10:20:32.412759] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/search.php
+[2019-02-01 10:20:32.412923] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass
+[2019-02-01 10:20:32.412966] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.413007] [debug] 0: ''
+[2019-02-01 10:20:32.413273] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/modules
+[2019-02-01 10:20:32.413319] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.413374] [debug] 0: ''
+[2019-02-01 10:20:32.413744] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/modules/_accessibility.scss
+[2019-02-01 10:20:32.414024] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/modules/_alignments.scss
+[2019-02-01 10:20:32.414262] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/modules/_clearings.scss
+[2019-02-01 10:20:32.414386] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/modules
+[2019-02-01 10:20:32.414446] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.414596] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/forms
+[2019-02-01 10:20:32.414654] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.414695] [debug] 0: ''
+[2019-02-01 10:20:32.415076] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/forms/_buttons.scss
+[2019-02-01 10:20:32.415324] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/forms/_fields.scss
+[2019-02-01 10:20:32.415564] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/forms/_forms.scss
+[2019-02-01 10:20:32.415673] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/forms
+[2019-02-01 10:20:32.415735] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.415898] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site
+[2019-02-01 10:20:32.415937] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.415973] [debug] 0: ''
+[2019-02-01 10:20:32.416250] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site/primary
+[2019-02-01 10:20:32.416292] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.416328] [debug] 0: ''
+[2019-02-01 10:20:32.418963] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site/primary/_comments.scss
+[2019-02-01 10:20:32.419259] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site/primary/_posts-and-pages.scss
+[2019-02-01 10:20:32.419533] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site/primary/_archives.scss
+[2019-02-01 10:20:32.419651] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site/primary
+[2019-02-01 10:20:32.419712] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.419893] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site/secondary
+[2019-02-01 10:20:32.419938] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.419976] [debug] 0: ''
+[2019-02-01 10:20:32.420382] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site/secondary/_widgets.scss
+[2019-02-01 10:20:32.421160] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site/secondary
+[2019-02-01 10:20:32.421219] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.421461] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site/_site.scss
+[2019-02-01 10:20:32.421657] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site/header
+[2019-02-01 10:20:32.421699] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.421735] [debug] 0: ''
+[2019-02-01 10:20:32.422159] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site/header/_site-header.scss
+[2019-02-01 10:20:32.422470] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site/header/_site-featured-image.scss
+[2019-02-01 10:20:32.422626] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site/header
+[2019-02-01 10:20:32.422700] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.422888] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site/footer
+[2019-02-01 10:20:32.422931] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.422969] [debug] 0: ''
+[2019-02-01 10:20:32.423402] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site/footer/_site-footer.scss
+[2019-02-01 10:20:32.423522] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site/footer
+[2019-02-01 10:20:32.423577] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.423698] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/site
+[2019-02-01 10:20:32.423755] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.423913] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/navigation
+[2019-02-01 10:20:32.423954] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.423990] [debug] 0: ''
+[2019-02-01 10:20:32.424351] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/navigation/_menu-social-navigation.scss
+[2019-02-01 10:20:32.424881] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/navigation/_next-previous.scss
+[2019-02-01 10:20:32.425124] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/navigation/_links.scss
+[2019-02-01 10:20:32.425357] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/navigation/_navigation.scss
+[2019-02-01 10:20:32.425595] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/navigation/_menu-footer-navigation.scss
+[2019-02-01 10:20:32.425863] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/navigation/_menu-main-navigation.scss
+[2019-02-01 10:20:32.425995] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/navigation
+[2019-02-01 10:20:32.426054] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.426428] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/typography
+[2019-02-01 10:20:32.426469] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.426512] [debug] 0: ''
+[2019-02-01 10:20:32.426887] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/typography/_typography.scss
+[2019-02-01 10:20:32.427134] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/typography/_headings.scss
+[2019-02-01 10:20:32.427376] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/typography/_copy.scss
+[2019-02-01 10:20:32.427485] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/typography
+[2019-02-01 10:20:32.427553] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.427704] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/elements
+[2019-02-01 10:20:32.427742] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.427786] [debug] 0: ''
+[2019-02-01 10:20:32.428168] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/elements/_tables.scss
+[2019-02-01 10:20:32.430600] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/elements/_lists.scss
+[2019-02-01 10:20:32.430866] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/elements/_elements.scss
+[2019-02-01 10:20:32.430980] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/elements
+[2019-02-01 10:20:32.431037] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.431193] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/blocks
+[2019-02-01 10:20:32.431233] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.431269] [debug] 0: ''
+[2019-02-01 10:20:32.431629] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/blocks/_blocks.scss
+[2019-02-01 10:20:32.431736] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/blocks
+[2019-02-01 10:20:32.431790] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.431953] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/variables-site
+[2019-02-01 10:20:32.432010] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.432049] [debug] 0: ''
+[2019-02-01 10:20:32.433505] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/variables-site/_transitions.scss
+[2019-02-01 10:20:32.433779] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/variables-site/_variables-site.scss
+[2019-02-01 10:20:32.434045] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/variables-site/_fonts.scss
+[2019-02-01 10:20:32.434283] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/variables-site/_colors.scss
+[2019-02-01 10:20:32.434514] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/variables-site/_columns.scss
+[2019-02-01 10:20:32.434758] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/variables-site/_structure.scss
+[2019-02-01 10:20:32.434896] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/variables-site
+[2019-02-01 10:20:32.434957] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.435184] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/_normalize.scss
+[2019-02-01 10:20:32.435327] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/mixins
+[2019-02-01 10:20:32.435364] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.435400] [debug] 0: ''
+[2019-02-01 10:20:32.435764] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/mixins/_utilities.scss
+[2019-02-01 10:20:32.436050] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/mixins/_mixins-master.scss
+[2019-02-01 10:20:32.436167] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/mixins
+[2019-02-01 10:20:32.436223] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.436857] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/layout
+[2019-02-01 10:20:32.436902] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.436939] [debug] 0: ''
+[2019-02-01 10:20:32.437300] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/layout/_layout.scss
+[2019-02-01 10:20:32.437411] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/layout
+[2019-02-01 10:20:32.437478] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.437622] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/media
+[2019-02-01 10:20:32.437669] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.437709] [debug] 0: ''
+[2019-02-01 10:20:32.438086] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/media/_galleries.scss
+[2019-02-01 10:20:32.438322] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/media/_media.scss
+[2019-02-01 10:20:32.438565] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/media/_captions.scss
+[2019-02-01 10:20:32.438679] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass/media
+[2019-02-01 10:20:32.438735] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.438864] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/sass
+[2019-02-01 10:20:32.438924] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.439131] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/style-editor.css
+[2019-02-01 10:20:32.439260] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/inc
+[2019-02-01 10:20:32.439297] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.439335] [debug] 0: ''
+[2019-02-01 10:20:32.439677] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/inc/template-tags.php
+[2019-02-01 10:20:32.439913] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/inc/back-compat.php
+[2019-02-01 10:20:32.440126] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/inc/customizer.php
+[2019-02-01 10:20:32.440347] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/inc/template-functions.php
+[2019-02-01 10:20:32.441895] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/inc/color-patterns.php
+[2019-02-01 10:20:32.442111] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/inc/icon-functions.php
+[2019-02-01 10:20:32.442210] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/inc
+[2019-02-01 10:20:32.442276] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.442478] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/single.php
+[2019-02-01 10:20:32.442691] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/header.php
+[2019-02-01 10:20:32.442908] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/postcss.config.js
+[2019-02-01 10:20:32.443114] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/style-editor-customizer.css
+[2019-02-01 10:20:32.443320] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/page.php
+[2019-02-01 10:20:32.443527] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen/comments.php
+[2019-02-01 10:20:32.450376] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes/twentynineteen
+[2019-02-01 10:20:32.450517] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.450670] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/themes
+[2019-02-01 10:20:32.450756] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.451009] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/index.php
+[2019-02-01 10:20:32.451160] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages
+[2019-02-01 10:20:32.451219] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.451275] [debug] 0: ''
+[2019-02-01 10:20:32.452048] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/de_DE-2c5d274ea625dd91556554ad82901529.json
+[2019-02-01 10:20:32.452332] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/admin-network-de_DE.mo
+[2019-02-01 10:20:32.453897] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/de_DE-68f2cec7514bf8563c723a4d675fcfe6.json
+[2019-02-01 10:20:32.454860] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/de_DE.po
+[2019-02-01 10:20:32.455255] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/de_DE.mo
+[2019-02-01 10:20:32.455540] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/admin-network-de_DE.po
+[2019-02-01 10:20:32.455800] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/de_DE-bf0f094965d3d4a95b47babcb35fc136.json
+[2019-02-01 10:20:32.455990] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/themes
+[2019-02-01 10:20:32.456052] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.462136] [debug] 0: ''
+[2019-02-01 10:20:32.462620] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/themes/twentysixteen-de_DE.mo
+[2019-02-01 10:20:32.462943] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/themes/twentynineteen-de_DE.mo
+[2019-02-01 10:20:32.463483] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/themes/twentysixteen-de_DE.po
+[2019-02-01 10:20:32.463715] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/themes/twentyseventeen-de_DE.mo
+[2019-02-01 10:20:32.463948] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/themes/twentyseventeen-de_DE.po
+[2019-02-01 10:20:32.464189] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/themes/twentynineteen-de_DE.po
+[2019-02-01 10:20:32.464297] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/themes
+[2019-02-01 10:20:32.464356] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.472870] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/de_DE-0ce75ad2f775d1cac9696967d484808c.json
+[2019-02-01 10:20:32.473155] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/de_DE-8860e58c20c6a2ab5876a0f07be43bd9.json
+[2019-02-01 10:20:32.473431] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/continents-cities-de_DE.mo
+[2019-02-01 10:20:32.473881] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/admin-de_DE.mo
+[2019-02-01 10:20:32.474081] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/plugins
+[2019-02-01 10:20:32.474152] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.474216] [debug] 0: ''
+[2019-02-01 10:20:32.474663] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/plugins/akismet-de_DE.mo
+[2019-02-01 10:20:32.474972] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/plugins/hello-dolly-de_DE.po
+[2019-02-01 10:20:32.475286] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/plugins/akismet-de_DE.po
+[2019-02-01 10:20:32.475569] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/plugins/hello-dolly-de_DE.mo
+[2019-02-01 10:20:32.481843] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/plugins/better-search-replace-de_DE.po
+[2019-02-01 10:20:32.482233] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/plugins/wp-backitup-de_DE.po
+[2019-02-01 10:20:32.482585] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/plugins/wp-backitup-de_DE.mo
+[2019-02-01 10:20:32.482897] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/plugins/better-search-replace-de_DE.mo
+[2019-02-01 10:20:32.483041] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/plugins
+[2019-02-01 10:20:32.483143] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.483345] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/continents-cities-de_DE.po
+[2019-02-01 10:20:32.483541] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/de_DE-f8f49d9fc4a9cf7d78ec99285417bd9c.json
+[2019-02-01 10:20:32.483721] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/de_DE-1a0cd6a7128913b15c1a10dd68951869.json
+[2019-02-01 10:20:32.483913] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/de_DE-7f13c36c641b114bf18cd0bcc9ecc7e0.json
+[2019-02-01 10:20:32.484292] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/admin-de_DE.po
+[2019-02-01 10:20:32.484702] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/de_DE-28b3c3d595952907e08d98287077426c.json
+[2019-02-01 10:20:32.484899] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/de_DE-a25d1cc7bf7ca0b4e114f6bea64943f4.json
+[2019-02-01 10:20:32.485089] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages/de_DE-1bba9045bb07c89671c88a3f328548e8.json
+[2019-02-01 10:20:32.485192] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/languages
+[2019-02-01 10:20:32.485254] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.485390] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/plugins
+[2019-02-01 10:20:32.485452] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.485512] [debug] 0: ''
+[2019-02-01 10:20:32.485853] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/plugins/index.php
+[2019-02-01 10:20:32.485954] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/plugins
+[2019-02-01 10:20:32.486030] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.486151] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/uploads
+[2019-02-01 10:20:32.486196] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.486234] [debug] 0: ''
+[2019-02-01 10:20:32.486449] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/uploads/2019
+[2019-02-01 10:20:32.486493] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.486530] [debug] 0: ''
+[2019-02-01 10:20:32.487674] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/uploads/2019/02
+[2019-02-01 10:20:32.487746] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.487812] [debug] 0: ''
+[2019-02-01 10:20:32.488145] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/uploads/2019/02
+[2019-02-01 10:20:32.488246] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.490811] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/uploads/2019/01
+[2019-02-01 10:20:32.490905] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.490974] [debug] 0: ''
+[2019-02-01 10:20:32.491245] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/uploads/2019/01
+[2019-02-01 10:20:32.491322] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.491444] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/uploads/2019
+[2019-02-01 10:20:32.491514] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.491625] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145/uploads
+[2019-02-01 10:20:32.491708] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.491838] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/Archive_1549018145
+[2019-02-01 10:20:32.491930] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.492018] [WPBackItUp_Directory_Cleanup_Processor::task]::[INFO]: Directory to be deleted: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/index.html
+[2019-02-01 10:20:32.492125] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/index.html
+[2019-02-01 10:20:32.492183] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.492240] [debug] 0: ''
+[2019-02-01 10:20:32.492386] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.492667] [WPBackItUp_Directory_Cleanup_Processor::task]::[INFO]: Directory to be deleted: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data
+[2019-02-01 10:20:32.493007] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data
+[2019-02-01 10:20:32.493067] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.493122] [debug] 0: ''
+[2019-02-01 10:20:32.493526] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_links-0.sql
+[2019-02-01 10:20:32.494213] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_postmeta-40000.sql
+[2019-02-01 10:20:32.494436] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_woocommerce_payment_tokenmeta-0.sql
+[2019-02-01 10:20:32.494772] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-cerber_log-0.sql
+[2019-02-01 10:20:32.495034] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_wc_download_log-0.sql
+[2019-02-01 10:20:32.495656] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_posts_BU190118-0.sql
+[2019-02-01 10:20:32.497205] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_cerber_sets-0.sql
+[2019-02-01 10:20:32.497438] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_termmeta-0.sql
+[2019-02-01 10:20:32.498059] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_postmeta_BU190118-60000.sql
+[2019-02-01 10:20:32.498290] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_woocommerce_shipping_zone_locations-0.sql
+[2019-02-01 10:20:32.498528] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_users-0.sql
+[2019-02-01 10:20:32.498725] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-cerber_countries-0.sql
+[2019-02-01 10:20:32.499180] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_woocommerce_payment_tokens-0.sql
+[2019-02-01 10:20:32.500000] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_cerber_files-10000.sql
+[2019-02-01 10:20:32.500324] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_postmeta-10000.sql
+[2019-02-01 10:20:32.506861] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_postmeta-20000.sql
+[2019-02-01 10:20:32.507029] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-cerber_acl-0.sql
+[2019-02-01 10:20:32.507390] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_postmeta_BU190118-30000.sql
+[2019-02-01 10:20:32.507936] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_woocommerce_order_itemmeta-0.sql
+[2019-02-01 10:20:32.508171] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_commentmeta-0.sql
+[2019-02-01 10:20:32.508807] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_postmeta_BU190118-50000.sql
+[2019-02-01 10:20:32.509010] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_terms-0.sql
+[2019-02-01 10:20:32.509433] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_postmeta-0.sql
+[2019-02-01 10:20:32.509747] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_postmeta_BU190118-40000.sql
+[2019-02-01 10:20:32.510586] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_cerber_files-0.sql
+[2019-02-01 10:20:32.516040] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_usermeta-0.sql
+[2019-02-01 10:20:32.516231] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_wc_webhooks-0.sql
+[2019-02-01 10:20:32.517764] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_woocommerce_sessions-0.sql
+[2019-02-01 10:20:32.518002] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_woocommerce_order_items-0.sql
+[2019-02-01 10:20:32.518170] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/wp-config.config
+[2019-02-01 10:20:32.518675] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_posts-0.sql
+[2019-02-01 10:20:32.518937] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_woocommerce_order_itemmeta-10000.sql
+[2019-02-01 10:20:32.519099] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-cerber_lab_net-0.sql
+[2019-02-01 10:20:32.519262] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_woocommerce_tax_rate_locations-0.sql
+[2019-02-01 10:20:32.519434] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_term_relationships-0.sql
+[2019-02-01 10:20:32.519597] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/backupsiteinfo.config
+[2019-02-01 10:20:32.519761] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/backupmanifest.config
+[2019-02-01 10:20:32.520097] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_postmeta_BU190118-10000.sql
+[2019-02-01 10:20:32.520265] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_woocommerce_attribute_taxonomies-0.sql
+[2019-02-01 10:20:32.520946] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_postmeta_BU190118-0.sql
+[2019-02-01 10:20:32.521256] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_postmeta-30000.sql
+[2019-02-01 10:20:32.521428] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_layerslider_revisions-0.sql
+[2019-02-01 10:20:32.521591] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_woocommerce_api_keys-0.sql
+[2019-02-01 10:20:32.521752] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_woocommerce_downloadable_product_permissions-0.sql
+[2019-02-01 10:20:32.521944] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_woocommerce_shipping_zones-0.sql
+[2019-02-01 10:20:32.522103] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-cerber_lab_ip-0.sql
+[2019-02-01 10:20:32.522269] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_woocommerce_log-0.sql
+[2019-02-01 10:20:32.522579] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_term_taxonomy-0.sql
+[2019-02-01 10:20:32.523056] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_options-0.sql
+[2019-02-01 10:20:32.523480] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_comments-0.sql
+[2019-02-01 10:20:32.523642] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-cerber_blocks-0.sql
+[2019-02-01 10:20:32.524271] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-cerber_traffic-0.sql
+[2019-02-01 10:20:32.526514] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_layerslider-0.sql
+[2019-02-01 10:20:32.526673] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-cerber_lab-0.sql
+[2019-02-01 10:20:32.526977] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_postmeta_BU190118-20000.sql
+[2019-02-01 10:20:32.527149] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/1549012251_rename.sql
+[2019-02-01 10:20:32.527312] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_woocommerce_shipping_zone_methods-0.sql
+[2019-02-01 10:20:32.527482] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-cerber_qmem-0.sql
+[2019-02-01 10:20:32.528109] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_postmeta-50000.sql
+[2019-02-01 10:20:32.528270] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: File Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data/db-wp_woocommerce_tax_rates-0.sql
+[2019-02-01 10:20:32.528626] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/site-data
+[2019-02-01 10:20:32.528970] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.529030] [WPBackItUp_Directory_Cleanup_Processor::task]::[INFO]: Directory to be deleted: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/web.config
+[2019-02-01 10:20:32.529103] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/web.config
+[2019-02-01 10:20:32.529141] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.529180] [debug] 0: ''
+[2019-02-01 10:20:32.529289] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.529335] [WPBackItUp_Directory_Cleanup_Processor::task]::[INFO]: Directory to be deleted: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/wp-content-other
+[2019-02-01 10:20:32.529422] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/wp-content-other
+[2019-02-01 10:20:32.529460] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.529495] [debug] 0: ''
+[2019-02-01 10:20:32.530412] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/wp-content-other
+[2019-02-01 10:20:32.530493] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true
+[2019-02-01 10:20:32.530540] [WPBackItUp_Directory_Cleanup_Processor::task]::[INFO]: Directory to be deleted: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/wp-content-plugins
+[2019-02-01 10:20:32.530610] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursively Delete: /html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/wp-content-plugins
+[2019-02-01 10:20:32.530647] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Ignore:
+[2019-02-01 10:20:32.530683] [debug] 0: ''
+[2019-02-01 10:20:32.531131] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Folder Deleted:/html/wordpress-oschwald-direkt-de/wp-content/wpbackitup_restore/wp-content-plugins
+[2019-02-01 10:20:32.531193] [WPBackItUp_FileSystem::recursive_delete]::[INFO]: Recursive Delete Completed:true

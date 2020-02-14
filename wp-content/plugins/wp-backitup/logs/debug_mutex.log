@@ -1,0 +1,1074 @@
+[2019-02-01 9:49:10.017013] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:10.017107] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:10.017177] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:49:10.017251] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:49:13.917299] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:13.917501] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:14.160656] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:14.160902] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:49:14.161798] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:14.161875] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:14.161974] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:49:14.162096] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:49:14.376463] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:14.376524] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:14.376593] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:49:14.376677] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:49:17.220613] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:17.220851] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:17.403943] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:17.403981] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:17.404026] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:49:17.404067] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:49:18.859664] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:18.859822] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:19.497361] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:19.497428] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:19.497498] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:49:19.497567] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:49:20.907521] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:20.907740] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:21.133577] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:21.133641] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:21.133732] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:49:21.133800] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:49:25.382383] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:25.382549] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:25.446233] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:25.446638] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:49:25.447376] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:25.447449] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:25.447525] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:49:25.447590] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:49:30.422837] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:30.423048] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:30.476813] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:30.476922] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:30.477050] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:49:30.477231] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:49:30.477804] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:30.477859] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:31.917316] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:31.917527] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:31.922826] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:31.922919] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:31.922991] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:49:31.923058] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:49:31.923556] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:31.923619] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:31.943975] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:31.944032] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:31.944096] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:49:31.944647] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:49:34.167448] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:34.167650] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:35.138125] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:35.177069] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:49:35.201630] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:35.209086] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:35.209177] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:49:35.209248] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:49:38.439002] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:38.439201] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:38.443479] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:38.443552] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:38.443619] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:49:38.443684] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:49:38.444871] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:38.444938] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:39.516012] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:39.516473] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:39.527873] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:39.527951] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:39.528027] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:49:39.528110] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:49:39.529266] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:39.529331] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:39.776753] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:39.777101] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:39.777172] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:49:39.777265] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:49:41.841856] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:41.842072] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:44.241368] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:44.241736] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:49:44.242599] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:44.242654] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:44.242705] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:49:44.242758] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:49:46.159006] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:46.159068] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:46.159132] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:49:46.185988] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:49:49.490211] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:49.490387] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:49.616835] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:49.616969] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:49:49.617716] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:49.617764] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:49.617809] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:49:49.617849] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:49:53.969583] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:53.969891] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:53.983011] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:53.983094] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:53.983171] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:49:53.983242] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:49:53.983705] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:53.983778] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:54.361320] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:54.361493] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:54.372385] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:54.372483] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:54.372550] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:49:54.372690] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:49:54.373128] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:54.373208] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:55.134336] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:55.134387] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:55.134443] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:49:55.134514] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:49:59.017993] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:59.018299] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:59.678971] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:49:59.679132] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:49:59.679804] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:49:59.679861] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:49:59.679914] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:49:59.679965] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:50:05.193746] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:05.193926] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:05.244343] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:05.244457] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:05.244519] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:50:05.244585] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:50:05.244975] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:05.245043] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:05.470140] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:05.470345] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:05.491929] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:05.492002] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:05.492085] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:50:05.492362] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:50:05.492763] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:05.492815] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:06.227431] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:06.227536] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:06.227622] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:50:06.227762] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:50:09.321474] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:09.321666] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:11.095953] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:11.096123] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:50:11.123934] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:11.124042] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:11.124131] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:50:11.124414] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:50:13.449903] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:13.449966] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:13.450031] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:50:13.450117] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:50:14.267019] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:14.267479] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:16.378884] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:16.379054] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:50:16.446692] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:16.446806] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:16.446870] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:50:16.446923] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:50:19.110405] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:19.110456] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:19.110512] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:50:19.110797] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:50:19.363066] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:19.363682] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:19.529476] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:19.529696] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:50:19.530405] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:19.530461] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:19.530515] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:50:19.530565] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:50:24.494945] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:24.495173] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:24.504606] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:24.513048] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:24.513166] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:50:24.513232] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:50:24.513609] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:24.513663] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:26.946644] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:26.946707] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:26.946774] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:50:26.946877] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:50:27.391388] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:27.392126] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:32.849601] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:32.849807] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:50:32.851330] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:32.851413] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:32.851483] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:50:32.851545] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:50:34.048074] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:34.050018] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:34.174634] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:34.174724] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:34.174799] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:50:34.174902] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:50:34.175414] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:34.175473] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:34.369034] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:34.369242] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:34.400340] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:34.400418] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:34.400489] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:50:34.400556] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:50:34.401006] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:34.401067] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:35.155107] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:35.155174] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:35.155240] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:50:35.155319] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:50:38.817740] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:38.817960] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:38.845401] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:38.845582] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:50:38.846301] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:38.846359] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:38.846416] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:50:38.846467] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:50:41.742738] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:41.742917] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:41.771516] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:41.771615] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:41.771714] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:50:41.772078] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:50:41.773649] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:41.773766] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:41.773849] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:50:41.773955] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:50:41.774326] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:41.774590] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:44.118585] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:44.118963] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:44.279222] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:44.279416] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:50:44.280539] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:44.280597] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:44.280643] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:50:44.280685] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:50:46.843911] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:46.845124] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:46.920136] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:46.920727] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:46.920845] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:50:46.920932] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:50:46.921488] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:46.921808] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:47.257972] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:47.258064] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:47.258127] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:50:47.258194] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:50:49.128710] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:49.128901] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:49.990726] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:49.990885] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:50:50.024424] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:50.024596] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:50.024692] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:50:50.024777] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:50:55.100039] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:55.219196] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:55.225771] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:55.225841] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:55.225907] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:50:55.225965] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:50:55.226387] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:55.226449] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:55.291096] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:55.291326] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:55.490603] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:55.490653] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:55.490699] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:50:55.490741] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:50:55.491055] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:55.491097] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:56.425205] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:50:56.425307] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:50:56.425414] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:50:56.425498] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:50:57.883363] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:50:57.883678] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:00.766710] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:00.766886] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:51:00.878324] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:00.878458] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:00.878529] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:51:00.878588] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:51:06.368920] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:06.369190] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:06.410077] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:06.410490] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:06.410552] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:51:06.410604] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:51:06.410980] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:06.411031] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:07.527399] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:07.527450] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:07.527503] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:51:07.527571] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:51:07.735650] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:07.735832] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:11.179750] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:11.179940] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:51:11.722553] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:11.722693] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:11.722759] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:51:11.722811] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:51:15.330085] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:15.330679] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:15.789189] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:15.789346] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:15.789412] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:51:15.789468] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:51:15.789951] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:15.790004] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:16.532665] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:16.532958] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:16.536886] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:16.536947] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:16.537003] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:51:16.537055] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:51:16.537509] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:16.537566] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:20.999617] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:20.999874] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:21.023021] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:21.023153] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:21.023235] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:51:21.023307] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:51:21.024034] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:21.024132] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:21.033489] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:21.033690] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:21.182301] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:21.182425] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:21.182516] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:51:21.182606] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:51:21.183322] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:21.183371] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:21.770730] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:21.770787] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:21.770849] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:51:21.770931] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:51:24.918534] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:24.918790] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:24.939687] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:24.939862] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:51:24.942672] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:24.942753] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:24.942826] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:51:24.942890] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:51:28.273416] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:28.273917] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:28.274041] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:51:28.274142] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:51:29.026366] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:29.026588] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:31.523930] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:31.524111] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:51:31.525532] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:31.525599] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:31.525700] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:51:31.525755] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:51:32.245295] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:32.245364] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:32.245444] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:51:32.245538] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:51:35.917748] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:35.917915] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:37.881351] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:37.881562] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:51:38.012798] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:38.012950] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:38.013030] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:51:38.013096] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:51:39.502140] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:39.502434] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:39.522763] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:39.523096] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:39.523163] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:51:39.523241] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:51:39.523664] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:39.523721] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:43.928574] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:43.929032] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:43.939398] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:43.939495] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:43.939564] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:51:43.939630] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:51:43.940104] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:43.940170] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:45.224188] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:45.224406] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:45.278701] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:45.278774] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:45.278836] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:51:45.278886] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:51:45.279344] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:45.279392] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:49.239259] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:49.239412] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:49.245805] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:49.245867] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:49.246355] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:51:49.246418] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:51:49.246752] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:49.246817] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:49.628824] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:49.629079] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:49.698556] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:49.698613] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:49.698669] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:51:49.698740] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:51:49.699757] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:49.699822] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:49.699872] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:51:49.699990] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:51:49.700584] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:49.700653] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:53.351959] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:53.352185] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:53.960081] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:51:53.960501] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:51:53.961107] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:53.961163] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:53.961209] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:51:53.961250] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:51:59.694622] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:51:59.694674] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:51:59.694746] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:51:59.694822] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:52:01.435934] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:01.436589] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:01.511385] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:01.511569] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:52:01.512324] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:01.512402] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:01.512484] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:52:01.512546] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:52:07.097691] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:07.102415] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:07.121259] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:07.121351] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:07.121423] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:52:07.121485] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:52:07.122807] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:07.122869] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:08.438913] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:08.439102] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:08.682390] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:08.682455] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:08.682509] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:52:08.682560] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:52:08.682961] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:08.683016] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:11.028486] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:11.028677] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:11.151662] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:11.151721] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:11.151772] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:52:11.151843] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:52:11.256814] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:11.256972] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:11.257046] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:52:11.257131] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:52:11.257528] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:11.257591] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:11.659492] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:11.659692] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:16.657613] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:16.657824] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:52:16.658571] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:16.658652] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:16.658729] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:52:16.658838] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:52:21.012876] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:21.013075] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:21.167912] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:21.167972] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:21.168029] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:52:21.168075] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:52:21.168818] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:21.168872] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:21.468123] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:21.468173] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:21.468228] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:52:21.468308] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:52:21.686084] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:21.686268] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:25.330136] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:25.330482] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:52:25.342199] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:25.342322] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:25.342403] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:52:25.342473] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:52:29.171531] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:29.171672] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:29.182343] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:29.182396] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:29.182444] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:52:29.182527] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:52:29.182894] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:29.182940] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:29.437551] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:29.437721] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:29.450609] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:29.450658] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:29.450702] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:52:29.450742] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:52:29.451076] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:29.451117] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:29.462552] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:29.462606] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:29.462667] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:52:29.462749] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:52:32.014219] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:32.014388] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:34.274375] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:34.274532] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:52:34.275435] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:34.294267] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:34.294367] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:52:34.294423] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:52:39.888087] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:39.888322] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:39.895359] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:39.895430] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:39.895498] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:52:39.895561] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:52:39.896020] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:39.896085] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:39.910646] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:39.910878] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:39.933149] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:39.933232] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:39.933341] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:52:39.991746] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:52:39.994308] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:40.007339] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:40.542152] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:40.542208] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:40.542265] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:52:40.542336] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:52:43.678385] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:43.678611] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:44.328002] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:44.328211] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:52:44.329596] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:44.329660] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:44.329713] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:52:44.329766] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:52:49.634788] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:49.634996] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:49.657784] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:49.657857] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:49.657923] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:52:49.657979] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:52:49.658376] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:49.658436] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:49.762820] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:49.762887] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:49.762959] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:52:49.763046] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:52:51.478693] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:51.478905] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:54.057600] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:54.057648] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:54.057703] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:52:54.057754] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:52:54.526741] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:54.526945] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:55.124255] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:52:55.124526] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:52:55.124586] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:52:55.124641] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:52:59.511348] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:52:59.511518] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:00.285923] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:00.286127] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:53:00.286842] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:00.286897] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:00.286943] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:53:00.287009] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:53:00.700223] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:00.700745] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:00.700829] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:00.700915] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:03.806005] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:03.806202] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:04.507531] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:04.643810] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:53:04.664493] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:04.665019] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:04.665081] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:53:04.665132] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:53:04.734744] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:04.735018] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:04.735291] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:04.735578] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:09.555952] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:09.556113] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:12.201502] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:12.201720] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:53:12.223624] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:12.247344] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:12.247482] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:53:12.247536] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:53:12.649338] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:12.649394] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:12.649461] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:12.649543] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:14.359910] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:14.360114] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:14.780052] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:14.780119] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:14.780196] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:14.780267] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:15.523998] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:15.524199] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:15.788027] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:15.788077] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:15.788134] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:15.788250] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:19.194366] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:19.196649] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:19.502700] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:19.502850] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:53:19.503528] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:19.503604] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:19.503662] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:53:19.503715] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:53:19.749386] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:19.749461] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:19.749552] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:19.749666] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:22.392100] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:22.392292] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:22.994102] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:22.994148] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:22.994196] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:22.994242] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:24.169899] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:24.170161] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:25.009223] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:25.009264] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:25.009315] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:25.009360] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:25.896013] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:25.896239] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:26.520395] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:26.520462] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:26.520534] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:26.520603] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:29.169651] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:29.169833] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:29.739461] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:29.739567] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:29.739640] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:29.739706] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:29.943696] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:29.943929] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:30.715784] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:30.715837] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:30.715939] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:30.716031] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:33.435772] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:33.436060] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:34.053752] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:34.053805] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:34.053908] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:34.063051] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:34.573380] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:34.573646] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:36.127846] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:36.127921] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:36.127993] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:36.142478] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:37.525695] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:37.525903] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:38.099697] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:38.099752] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:38.099812] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:38.103183] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:39.274585] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:39.274786] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:39.951872] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:39.951937] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:39.952028] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:39.952100] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:41.236215] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:41.238842] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:42.139750] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:42.139800] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:42.139889] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:42.139952] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:45.026212] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:45.026422] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:45.523435] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:45.523627] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:53:45.537400] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:45.537492] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:45.537549] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:53:45.537590] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:53:45.927229] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:45.927293] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:45.927367] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:45.927463] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:48.526340] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:48.526550] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:49.501087] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:49.501163] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:49.501224] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:49.501279] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:49.652803] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:49.653018] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:51.177406] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:51.177465] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:51.177531] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:51.177593] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:53:54.658736] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:54.680294] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:54.699381] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:53:54.699548] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:53:54.728328] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:54.728454] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:54.728518] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:53:54.728571] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:53:57.282510] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:53:57.282578] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:53:57.282655] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:53:57.384707] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:00.357844] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:00.358020] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:01.735209] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:01.735269] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:01.735335] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:01.735395] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:02.950433] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:02.950644] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:04.472529] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:04.472589] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:04.536730] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:04.536875] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:05.154006] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:05.157190] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:06.703241] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:06.703308] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:06.703403] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:06.703495] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:07.710810] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:07.711004] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:08.489572] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:08.489636] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:08.489711] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:08.489788] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:09.757551] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:09.757736] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:11.098022] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:11.098095] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:11.098176] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:11.098249] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:11.847328] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:11.847568] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:12.356136] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:12.356195] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:12.356261] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:12.358433] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:13.934099] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:13.934279] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:15.579729] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:15.579782] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:15.579871] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:15.579932] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:16.693525] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:16.693703] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:17.263710] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:17.266313] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:17.266396] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:17.266469] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:19.234563] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:19.236131] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:19.877398] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:19.877451] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:19.877513] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:19.877571] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:20.060246] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:20.060657] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:20.918340] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:20.918392] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:20.918452] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:20.918508] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:25.511732] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:25.511918] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:25.694977] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:25.695168] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:54:25.722608] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:25.722743] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:25.722815] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:54:25.722898] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:54:26.300312] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:26.300790] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:26.300867] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:26.300960] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:28.783806] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:28.784080] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:28.998300] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:28.998450] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:54:28.998970] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:28.999032] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:28.999085] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:54:28.999131] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:54:29.107201] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:29.107256] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:29.107316] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:29.107392] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:31.773919] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:31.774358] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:32.110948] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:32.111080] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:32.111167] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:32.111238] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:34.494793] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:34.495008] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:36.050529] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:36.050595] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:36.050687] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:36.050756] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:37.555291] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:37.555511] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:38.027024] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:38.027098] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:38.027177] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:38.027241] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:39.190434] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:39.190606] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:39.939264] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:39.939356] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:39.939452] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:39.939560] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:43.269335] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:43.269607] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:43.527124] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:43.531645] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:43.531774] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:43.531863] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:45.114165] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:45.114350] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:45.422245] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:45.422308] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:45.422377] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:45.422439] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:47.617074] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:47.617253] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:47.940000] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:47.940058] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:47.940115] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:47.940171] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:49.727719] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:49.728010] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:50.148036] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:50.148093] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:50.148153] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:50.148211] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:50.629787] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:50.630192] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:51.144161] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:51.144248] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:51.144376] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:51.144467] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:54:54.015367] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:54.015574] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:54.497972] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:54:54.498172] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:54:54.716883] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:54.717004] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:54.717061] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:54:54.717122] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:54:54.802880] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:54:54.802964] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:54:54.803050] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:54:54.803138] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:55:01.020442] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:01.020620] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:03.166791] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:03.166960] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:55:03.167701] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:03.167754] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:03.167805] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:55:03.167854] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:55:03.274159] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:03.274228] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:03.274305] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:55:03.274399] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:55:04.700891] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:04.701109] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:08.505398] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:08.505475] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:08.505553] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:55:08.505620] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:55:09.361053] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:09.361283] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:09.467807] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:09.468018] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:55:09.477286] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:09.477396] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:09.477472] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:55:09.477540] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:55:10.019424] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:10.019484] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:10.019553] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:55:10.019644] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:55:14.671137] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:14.671312] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:15.174473] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:15.174637] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:55:15.175381] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:15.175443] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:15.175499] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:55:15.175549] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:55:15.239475] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:15.239527] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:15.239586] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:55:15.239700] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:55:17.870582] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:17.870791] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:18.178261] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:18.178313] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:18.178370] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:55:18.178426] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:55:20.648063] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:20.648269] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:20.939297] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:20.939344] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:20.939398] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:55:20.940102] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:55:20.942940] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:20.943173] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:21.374779] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:21.374830] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:21.374897] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:55:21.374957] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:55:24.097989] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:24.098263] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:24.193782] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:24.193932] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:55:24.194571] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:24.194628] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:24.194680] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:55:24.194752] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:55:24.616260] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:24.619101] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:24.619256] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:55:24.619637] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:55:27.215564] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:27.215939] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:27.735575] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:27.735640] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:27.735735] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:55:27.735806] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:55:29.197495] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:29.197673] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:29.667340] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:29.667397] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:29.667463] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:55:29.667526] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:55:31.315658] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:31.315875] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:31.748028] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:31.749553] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:31.749646] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:55:31.749711] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:55:34.461277] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:34.461488] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:35.874128] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:35.874211] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:35.874291] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:55:35.874362] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:55:37.261698] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:37.261957] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:38.266103] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:38.266166] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:38.266238] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:55:38.266303] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:55:39.441817] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:39.441993] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:39.777826] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:39.778126] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:39.778201] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:55:39.778270] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:55:41.155905] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:41.157277] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:41.193955] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:41.194056] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:41.194158] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:55:41.194282] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:55:43.693063] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:43.693686] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:44.025763] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:44.026036] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:55:44.026619] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:44.026675] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:44.026763] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:55:44.026818] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:55:44.427165] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:44.427241] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:44.427320] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:55:44.427421] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 9:55:47.015151] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:47.015327] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:49.644053] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 9:55:49.644309] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:false
+[2019-02-01 9:55:49.645741] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:49.645809] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:49.645867] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:false
+[2019-02-01 9:55:49.645917] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:false
+[2019-02-01 9:55:50.183792] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 9:55:50.183857] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 9:55:50.183918] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 9:55:50.183989] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 10:20:29.822057] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 10:20:29.822371] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 10:20:31.126452] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 10:20:31.126504] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 10:20:31.126562] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 10:20:31.126615] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 10:20:32.263642] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 10:20:32.263945] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 10:20:32.376260] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 10:20:32.376336] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 10:20:32.376430] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 10:20:32.376512] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 10:20:38.932224] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 10:20:38.934575] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 10:20:39.015491] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 10:20:39.015563] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 10:20:39.015641] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 10:20:39.015691] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 10:20:43.250293] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 10:20:43.250497] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 10:20:43.977616] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 10:20:43.977658] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 10:20:43.977704] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 10:20:43.977750] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 10:20:47.995342] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 10:20:47.995568] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 10:20:48.195552] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 10:20:48.195612] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 10:20:48.195900] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 10:20:48.195985] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true
+[2019-02-01 10:22:25.501027] [WPBackItUp_Mutex::attemptLock]::[INFO]: Begin:/html/wordpress-oschwald-direkt-de/wp-content/plugins/wp-backitup//logs/joblock.lock
+[2019-02-01 10:22:25.501238] [WPBackItUp_Mutex::attemptLock]::[INFO]: File Handle:NULL
+[2019-02-01 10:22:25.610244] [WPBackItUp_Mutex::releaseLock]::[INFO]: Begin
+[2019-02-01 10:22:25.610424] [WPBackItUp_Mutex::releaseLock]::[INFO]: File Handle:NULL
+[2019-02-01 10:22:25.610539] [WPBackItUp_Mutex::releaseLock]::[INFO]: Flock Unlock:true
+[2019-02-01 10:22:25.610624] [WPBackItUp_Mutex::releaseLock]::[INFO]: Close File:true

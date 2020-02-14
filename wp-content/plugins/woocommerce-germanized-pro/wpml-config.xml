@@ -1,0 +1,37 @@
+<wpml-config>
+    <admin-texts>
+    	<key name="woocommerce_gzdp_invoice_date_format" />
+        <key name="woocommerce_gzdp_invoice_address" />
+        <key name="woocommerce_gzdp_invoice_address_detail" />
+    	<key name="woocommerce_gzdp_invoice_page_numbers_format" />
+    	<key name="woocommerce_gzdp_invoice_text_before_table" />
+    	<key name="woocommerce_gzdp_invoice_text_after_table" />
+        <key name="woocommerce_gzdp_invoice_number_format" />
+        <key name="woocommerce_gzdp_invoice_cancellation_number_format" />
+        <key name="woocommerce_gzdp_invoice_packing_slip_number_format" />
+    	<key name="woocommerce_gzdp_invoice_cancellation_text_before_table" />
+    	<key name="woocommerce_gzdp_invoice_cancellation_text_after_table" />
+        <key name="woocommerce_gzdp_invoice_packing_slip_text_before_table" />
+        <key name="woocommerce_gzdp_invoice_packing_slip_text_after_table" />
+        <key name="woocommerce_gzdp_invoice_reverse_charge_text" />
+    	<key name="woocommerce_gzdp_checkout_step_title_address" />
+    	<key name="woocommerce_gzdp_checkout_step_title_payment" />
+    	<key name="woocommerce_gzdp_checkout_step_title_order" />
+        <key name="woocommerce_gzdp_legal_page_text_before_content" />
+        <key name="woocommerce_gzdp_legal_page_text_after_content" />
+        <key name="woocommerce_gzdp_checkout_privacy_policy_text" />
+        <key name="woocommerce_gzdp_contract_helper_email_order_processing_text" />
+        <key name="woocommerce_gzdp_invoice_third_party_country_text" />
+        <key name="woocommerce_gzdp_invoice_differential_taxation_notice_text" />
+        <key name="woocommerce_gzdp_invoice_page_numbers_format" />
+        <key name="woocommerce_gzdp_legal_page_page_numbers_format" />
+        <key name="woocommerce_customer_order_confirmation_settings">
+            <key name="subject" />
+            <key name="heading" />
+        </key>
+        <key name="woocommerce_customer_invoice_cancellation_settings">
+            <key name="subject" />
+            <key name="heading" />
+        </key>
+    </admin-texts>
+</wpml-config>
