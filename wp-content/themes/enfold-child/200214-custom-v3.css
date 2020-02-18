@@ -1,0 +1,228 @@
+#product-2478 div.quantity, 
+#product-554 div.quantity, 
+#product-857 div.quantity, 
+#product-830 div.quantity, 
+#product-127 div.quantity, 
+#product-145 div.quantity, 
+#product-135 div.quantity, 
+#product-864 div.quantity {
+   display: none !important;
+}
+
+#header_main,
+nav.sub_menu {
+   margin: 1em 0 auto;
+}
+
+.logo {
+   max-width: 200px;
+}
+
+#header_meta {
+   background-color: #799c37;
+   padding: .25em 0;
+}
+
+nav.sub_menu > ul#avia2-menu.menu > li#menu-item-3056 > a,
+nav.sub_menu > ul#avia2-menu.menu > li#menu-item-3057 > a,
+nav.sub_menu > ul#avia2-menu.menu > li#menu-item-3953 > a {
+  color: #fff !important;
+}
+
+.wc-gzd-additional-info {
+   display: contents;
+   padding-left: 15px !important;
+   font-size: 0.75em !important;
+}
+
+div .products .product a {
+   display: inline;
+}
+
+#top div div.product .woocommerce-tabs ul.tabs li a { 
+  white-space: nowrap !important; 
+}
+
+.single-product-summary div[itemprop="offers"] {
+    display: inline-block;
+}
+
+#top h1, #top h1 strong {
+    color: #719430;
+}
+#top h1 strong {
+    font-weight: bold;
+}
+
+#top h1.product_title.entry-title {
+   display: flex !important;
+   color:#fff !important;
+   background: #719430;
+   padding: 3px 9px;
+}
+
+.mfp-iframe-holder .mfp-content {
+    width: 100%;
+    max-width: 1400px;
+}
+.html_stretched #wrap_all {
+    background-color: #fff;
+}
+
+div table.shop_attributes td {
+    font-style: normal !important;
+}
+
+.term-description {
+    font-size: 16px;
+}
+
+.woo-variation-gallery-wrapper .wvg-gallery-image, 
+.woo-variation-gallery-wrapper .wvg-gallery-thumbnail-image img {
+    border: 1px solid #cecece !important;
+}
+
+.single-product-summary span.posted_in,
+.single-product-summary span.sku_wrapper,
+.single-product-summary span.tagged_as,
+.woocommerce-LoopProduct-link .price.price-unit.smaller  {
+   display: none !important;
+}
+
+.single_variation_wrap {
+    margin: 10px 0px 20px 0px;
+}
+
+#price_calculator td,
+#top .variations .label,
+#top .variations .label label {
+    text-align: left; 
+}
+#top .variations td {
+    padding: 4px 10px 4px 0;
+    text-align: left;
+}
+
+#top .variations td.label {
+    width: 145px;
+}
+.alg-wc-civs-term {
+    min-width: 35px;
+    height: 35px;
+    margin: 0 12px 0 0;
+    opacity: 1;
+}
+.alg-wc-civs-term:not(.disabled):hover {
+    border: 4px solid #719430;
+}
+
+.price-table-row.calculated-price td,
+.price-table-row.calculated-price td span {
+    font-size: 16px !important;
+    color: #000 !important;
+    font-weight: bold !important;
+}
+
+.woocommerce-variation-description {
+   font-size: 16px;
+   font-weight: 600;
+   color: #333;
+}
+
+.single-product-main-image {
+    width: 40%;
+}
+select#length_needed {
+    max-width: 100px !important;
+}
+
+div form.cart div.quantity {
+/*    float: right; */
+    margin: 0 3% 5px 0;
+    min-width: 60px;
+}
+#top form.cart .button {
+    float: left;
+}
+
+#top .woocommerce-tabs h2 {
+    color: #719430 !important;
+}
+
+#tab-additional_information h2 {
+    margin-left: 8px;
+}
+
+.thisismyurl_external, .external-links-new-window  {
+   background: url('https://www.oschwald-direkt.de/wp-content/uploads/2019/01/boden-aus-natur-external-link.gif') no-repeat right !important;
+}
+
+/****** wieder raus !!! ******/
+/*.single-product-summary a, 
+div .product a {
+    text-decoration: underline !important;
+    font-weight: bold;
+    font-weight: 600;
+}*/
+
+a.avia-button, 
+body div .avia-button {
+    text-decoration: none !important;
+}
+
+#top .widget_nav_menu li {
+   font-size: 16px;
+}
+
+.woocommerce-product-search > button
+ {
+    background-color: #719430;
+    color: #fff;
+    border: none;
+    padding: 7px 13px;
+    padding: 7px 15px;
+    cursor: pointer !important;
+}
+
+.woocommerce-product-search > button:hover { 
+    background-color: #507210;
+}
+.woocommerce-account-fields {
+    border-style: solid;
+    border-width: 1px;
+    margin: 20px 0 20px 0;
+    padding: 15px;
+    background-color: #fcfcfc;
+    font-size: 16px !important;
+}
+
+.woocommerce-account-fields span {
+    color: #719430;
+    font-size: 16px !important;
+}
+
+
+/**************   media queries  **************/
+
+
+@media only screen and (max-width: 767px) {
+   /* .responsive .logo img {
+        max-width: 60% !important;
+    } */
+   .responsive #top #wrap_all .av-logo-container {
+       height: 130px !important;
+      line-height: 130px;
+   }
+   .responsive #top #wrap_all .main_menu {
+       top: 60px;
+   }
+   .responsive table.shop_table .product-subtotal{ 
+      display: table-cell !important;
+   }
+}
+
+@media all and (max-width: 418px) {
+   span.av-icon-char {
+      padding-top: .75em !important; 
+   }
+}
