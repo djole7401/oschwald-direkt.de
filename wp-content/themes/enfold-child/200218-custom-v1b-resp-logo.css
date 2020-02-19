@@ -10,10 +10,14 @@
   padding: .25em 0;
 }
 
-#header_main,
-nav.sub_menu {
+#header_main, nav.sub_menu {
   margin: .5em 0 auto;
 /* Abstände */
+}
+
+.av-logo-container {
+  margin: 1em auto 0;
+/* Abstand überm Logo */
 }
 
 .avia-menu-text {
@@ -229,22 +233,22 @@ body div .avia-button {
 
 
 @media only screen and (max-width: 767px) {
-/* .responsive .logo img {
-   max-width: 60% !important;
-  } */
-  .responsive #top #wrap_all .av-logo-container {
-    height: 130px !important;
-   line-height: 130px;
-  }
-  .responsive #top #wrap_all .main_menu {
-    top: 60px;
-  }
+
   .responsive table.shop_table .product-subtotal{ 
    display: table-cell !important;
   }
 }
 
+  .responsive #top #wrap_all .main_menu {
+    top: 0;
+    right: -2em;
+  }
+
 @media all and (max-width: 418px) {
+  .responsive .logo img {
+    max-width: 70%;
+  }
+
   span.av-icon-char {
    padding-top: .75em !important; 
    /*  Damit die Navigation auf Mobile ordentlich ausschaut */
