@@ -142,10 +142,6 @@ ul.products .product .av-product-class-minimal-overlay .wc-gzd-additional-info {
 	margin-left: 1em;
 }
 
-.single-product .price-unit, .single-product .price-unit span {
-	font-size: 12px !important;
-}
-
 .single-product .price-unit .unit {
 	display: inline;
 	float: none;
