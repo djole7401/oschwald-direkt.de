@@ -229,9 +229,14 @@ body div .avia-button {
   font-size: 16px !important;
 }
 
-#top .price, #top del, #top ins{
+#top .price span {
   font-size: 20px;
-/* Den Preis größer machen */
+/* Product-Detail Page */
+}
+
+div.inner_product_header_cell > span.price > span.woocommerce-Price-amount.amount {
+  font-size: 16px !important;
+/* Den Preis nur auf der Startseite kleiner machen als auf der Produktseite */
 }
 
 /************** media queries  **************/
