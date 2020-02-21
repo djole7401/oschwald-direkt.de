@@ -1141,7 +1141,7 @@ msgid "Total Price"
 msgstr "Gesamtpreis"
 
 #: templates/single-product/price-calculator.php:154
-msgid "Preis"
+msgid "Product Price"
 msgstr "Produktpreis"
 
 #. translators: Placeholders: %1$s - measurement label, %2$s - measurement unit
