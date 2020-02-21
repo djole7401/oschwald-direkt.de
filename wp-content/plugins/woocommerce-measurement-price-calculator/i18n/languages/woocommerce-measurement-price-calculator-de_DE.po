@@ -6,7 +6,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://woocommerce.com/my-account/marketplace-ticket-"
 "form/\n"
 "POT-Creation-Date: 2014-06-15 22:41:28+00:00\n"
-"PO-Revision-Date: 2020-02-19 09:42+0100\n"
+"PO-Revision-Date: 2020-02-21 11:46+0100\n"
 "Last-Translator: wolli ruf <mediendesign@wolliruf.com>\n"
 "Language-Team: Deutsch\n"
 "Language: de_DE\n"
@@ -1017,19 +1017,19 @@ msgstr ""
 #: classes/class-wc-price-calculator-cart.php:1215
 #: templates/single-product/price-calculator.php:45
 msgid "Total %1$s (%2$s)"
-msgstr "Gesamt%s (%s)"
+msgstr "Gesamt-%1$s (%2$s)"
 
 #. translators: Placeholders: %s - measurement label
 #: classes/class-wc-price-calculator-cart.php:1217
 #: templates/single-product/price-calculator.php:47
 msgid "Total %s"
-msgstr "Gesamt%"
+msgstr "Gesamt %s"
 
 #. translators: Placeholders: %1$s - measurement label, %2$s - measurement unit
 #. label
 #: classes/class-wc-price-calculator-cart.php:1226
 msgid "Overage %1$s (%2$s)"
-msgstr "Gesamt%s (%s)"
+msgstr "Gesamt %1$s (%2$s)"
 
 #. translators: Placeholders: %s - measurement label
 #: classes/class-wc-price-calculator-cart.php:1228
