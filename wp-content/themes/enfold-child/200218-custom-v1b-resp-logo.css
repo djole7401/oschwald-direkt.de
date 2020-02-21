@@ -44,6 +44,10 @@ nav.sub_menu > ul#avia2-menu.menu > li#menu-item-3953 > a {
 
 /****** Startseite und Product Grid ******/
 
+.av-special-heading.blockquote > * {
+  margin-bottom: 1em;
+}
+
 .shop_columns_3 .products .product {
   margin: 0 2% 2% 0;
   width: 31.6%;
