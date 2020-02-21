@@ -49,6 +49,7 @@
 <html <?php language_attributes(); ?> class="<?php echo "html_{$style} ".$responsive." ".$preloader." ".$av_lightbox." ".$filterable_classes." ".$av_classes_manually ?> ">
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
+<meta name="google-site-verification" content="dei6gzFbPKPMSXXt84AnUdncg6C_aCQBfambj0PsLFs" />
 <?php
 /*
  * outputs a rel=follow or nofollow tag to circumvent google duplicate content for archives
